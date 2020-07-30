@@ -120,14 +120,36 @@ function myFunction(id) {
 
 					<div class="text" style="vertical-align: middle">
 
-						<h1 style="display: inline;" style="float: left">
+						<style>
+						.block3 {
+  						background: green;
+  						/*height: 120px;*/
+  						line-height: 120px;
+						}
+
+						.inner {
+						  display: inline-block;
+						  vertical-align: middle;
+						  background: yellow;
+						  padding: 3px 5px;
+						}
+
+						.inner3 {
+  						width: 30%;
+  						line-height: normal; /* Reset line-height for the child. IMPORTANT: Must be "normal", no integer value allowed! */
+						}
+						</style>
+
+						<div class="block3">
+
+						<h1 style="display: inline;" style="float: left" class="inner inner3">
 						<a href="https://www.danielyling.com/" style="text-decoration: none; color: #000000;" title="Home">
 						Daniel Ling
 						</a>
 						</h1>
 
 							
-							<div style="display: inline; float: right">
+							<div style="display: inline; float: right" class="inner inner3">
 
 								<h3 style="display: inline;">
 								<a href="https://www.danielyling.com/" style="text-decoration: none; color: #000000;" title="Home">
@@ -166,6 +188,8 @@ function myFunction(id) {
 								</h3>
 
 							</div>
+
+						</div>
 
 
 						<br>
