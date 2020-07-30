@@ -85,7 +85,7 @@ hr.dotted {
 
 /* Solid border */
 hr.solid {
-  border-top: 3px solid #bbb;
+  border-top: 1px solid #bbb;
 }
 
 /* Rounded border */
