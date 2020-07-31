@@ -33,7 +33,7 @@
 		margin-top:30px;
 	}
 	div.text {
-			font-family: 'Georgia', serif;
+			font-family: 'Times', serif;
 			margin-top: 0px;
 			padding-top: 0px;
 			font-size: 14px;
@@ -68,7 +68,7 @@
 		text-decoration: none;
 		display: inline-block;
 		font-size: 14px;
-		font-family: 'Georgia', serif;
+		font-family: 'Times', serif;
 		cursor: pointer; 
 	}
 	
@@ -102,7 +102,7 @@
 		margin-top:30px;
 	}
 	div.text {
-			font-family: 'Georgia', serif;
+			font-family: 'Times', serif;
 			margin-top: 0px;
 			padding-top: 0px;
 			font-size: 14px;
@@ -137,7 +137,7 @@
 		text-decoration: none;
 		display: inline-block;
 		font-size: 14px;
-		font-family: 'Georgia', serif;
+		font-family: 'Times', serif;
 		cursor: pointer; 
 	}
 
