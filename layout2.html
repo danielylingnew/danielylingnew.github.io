@@ -121,11 +121,9 @@ function myFunction(id) {
 					<div class="text" style="vertical-align: middle">
 
 						<style>
-						.block3 {
-  						background: green;
+						.block2 {
+  						background: orange;
   						height: 100px;
-  						/*height: 120px;*/
-  						line-height: 120px;
 						}
 
 						.inner {
@@ -133,6 +131,8 @@ function myFunction(id) {
 						  vertical-align: middle;
 						  background: yellow;
 						  padding: 20px 5px;
+						  width: 30%;
+						  line-height: normal; /* Reset line-height for the child. IMPORTANT: Must be "normal", no integer value allowed! */
 						}
 
 						.innerright {
@@ -140,33 +140,22 @@ function myFunction(id) {
 						  vertical-align: middle;
 						  background: yellow;
 						  padding: 35px 5px;
-						}
-						
-						.inner2 {
-  						width: 30%;
-  						line-height: normal; /* Reset line-height for the child. IMPORTANT: Must be "normal", no integer value allowed! */
-						}
-
-						.inner3 {
-  						width: 60%;
-  						line-height: normal; /* Reset line-height for the child. IMPORTANT: Must be "normal", no integer value allowed! */
-						}
-
-						.inner4 {
-						text-align: right;
+						  text-align: right;
+						  width: 60%;
+						  line-height: normal; /* Reset line-height for the child. IMPORTANT: Must be "normal", no integer value allowed! */
 						}
 						</style>
 
-						<div class="block3">
+						<div class="block2">
 
-						<h1 style="float: left" class="inner inner2">
+						<h1 style="float: left" class="inner">
 						<a href="https://www.danielyling.com/" style="text-decoration: none; color: #000000;" title="Home">
 						Daniel Ling
 						</a>
 						</h1>
 
 							
-							<div style="display: inline; float: right" class="innerright inner3 inner4">
+							<div style="display: inline; float: right" class="innerright">
 
 								<h3 style="display: inline;">
 								<a href="https://www.danielyling.com/" style="text-decoration: none; color: #000000;" title="Home">
