@@ -52,11 +52,6 @@
   						position: relative;
 						}
 
-						.flexbox {
-    					display: flex;
-    					align-items: center;
-						}
-
 						.inner {
 						  background: orange;
 						  margin: 0;
@@ -96,6 +91,11 @@
 						  /* line-height: 3px; */
 						  /* Reset line-height for the child. IMPORTANT: Must be "normal", no integer value allowed! */
 						}
+
+						div.c {
+						  position: absolute;
+						  top: 50%;
+						} 
 						</style>
 
 						<div class="block3">
@@ -106,8 +106,8 @@
 						</a>
 						</h1>
 
-							<div align="right"> 
-							<div style="display: inline" class="flexbox">
+							<div align="right" class="c"> 
+							<div style="display: inline">
 
 								<h3 style="display: inline;">
 								<a href="https://www.danielyling.com/" style="text-decoration: none; color: #000000;" title="Home">
