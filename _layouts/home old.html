@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+
+<article class="post">
+  
+  <!-- let's create this new home layout (just like a page) and comment out the header
+  	
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+  
+  -->
+	<style>
+	  	.homephotocentering {
+	    top: 0; bottom: 0;
+	    margin: auto;
+		}
+	</style>
+
+  <div class="post-content homephotocentering" style="vertical-align: middle; margin-top: auto; margin-bottom: auto;">
+    
+    <br>
+    <br>
+    <br>
+    <br>
+
+    {{ content }}
+  
+  </div>
+
+</article>
