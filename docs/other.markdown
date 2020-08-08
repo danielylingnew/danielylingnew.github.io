@@ -42,7 +42,7 @@ You can find the source code for Jekyll at GitHub:
 <div class='embedsocial-instagram' data-ref="37d48f9d2c55702126d48206d7f1b5e6b984a96a"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
 
 <!--- Instagram timeline using curator -->
-<div id="curator-feed-default-feed-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
+<div id="curator-feed-default-feed-layout"></div>
 <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
 <script type="text/javascript">
 /* curator-feed-default-feed-layout */
