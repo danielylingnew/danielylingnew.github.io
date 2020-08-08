@@ -7,7 +7,7 @@ permalink: /about
 
 <img align="right" src="/assets/Photo.jpg" class="img-responsive spacefloatedimage">
 
-atom github test
+atom github test again
 
 Rhode Island native, Princeton '16, currently a New Yorker.
 
