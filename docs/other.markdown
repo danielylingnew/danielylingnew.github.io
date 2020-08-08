@@ -35,7 +35,7 @@ You can find the source code for Jekyll at GitHub:
 <a href="https://twitter.com/intent/tweet?screen_name=danielyuling&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-text="Hi Daniel, " data-show-count="false">Tweet to @danielyuling</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--- Twitter timeline -->  
-<a class="twitter-timeline" data-width="500" data-height="1000" data-theme="light" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="1000" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- Instagram timeline using SnapWidget -->
 <iframe src="https://snapwidget.com/embed/860173" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:735px; height:735px"></iframe>
