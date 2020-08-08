@@ -24,7 +24,7 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll
 
 
-***
+<br/><br/>
 
 <!--- Social mirroring -->  
 #### Latest from Daniel Ling
