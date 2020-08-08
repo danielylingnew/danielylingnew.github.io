@@ -44,3 +44,6 @@ You can find the source code for Jekyll at GitHub:
 
 <!--- Instagram timeline using powr -->
 <div class="powr-instagram-feed" id="18eeaf1b_1596859738"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+
+<!-- Instagram timeline using SnapWidget -->
+<iframe src="https://snapwidget.com/embed/860173" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:495px; height:495px"></iframe>
