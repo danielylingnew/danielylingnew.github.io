@@ -41,7 +41,33 @@
   </header>
 
   <div class="post-content">
-    <p><strong>Education</strong><br />
+    <!--- For buttons -->
+<head>
+<script>
+function myFunction(id) {
+	var x = document.getElementById(id);
+
+	var ids = ["abs1", "media1", "abs2", "media2", "abs3", "about1", "about2"];
+
+	for(var i = 0; i < ids.length; i++) {
+		var item = ids[i];
+		if (item != id) {
+			document.getElementById(item).style.display = "none";
+		} else {
+			if (x.style.display === "none") {
+				x.style.display = "block";
+			} else {
+				x.style.display = "none";
+			}
+		}
+	}
+
+
+}
+</script>
+</head>
+
+<p><strong>Education</strong><br />
 Princeton ‘16 (A.B., Applied Mathematics/Economics)</p>
 
 <p><strong>Experience</strong><br />
@@ -54,6 +80,49 @@ Morgan Stanley (Previously an investment analyst in NYC, 1585 Broadway)</p>
 <p><strong>Honors</strong><br />
 U.S. Presidential Scholar<br />
 National Merit Scholar</p>
+
+<details>
+<summary>Additional Honors</summary>
+<p>
+Intel Science Talent Search (2012, Semifinalist)
+<br />
+Intel International Science &amp; Engineering Fair (2011, Finalist and Special Award Winner)
+<br />
+Siemens Competition (2011, Finalist)
+<br />
+JSHS National Competition (2011, 3rd Place at National Finals, San Diego)
+<br />
+Harvard Book Award
+<br />
+Valedictorian, East Greenwich High School
+<br />
+Rhode Island Science Fair (2011, Overall Winner - Senior Division Champion)
+</p>
+</details>
+
+<p>test</p>
+
+<div class="buttonbar">
+<button class="button" onclick="myFunction()">
+Additional Honors
+</button>
+
+							<div class="popup" style="display:none;">
+								Intel Science Talent Search (2012, Semifinalist)
+								<br />
+								Intel International Science &amp; Engineering Fair (2011, Finalist and Special Award Winner)
+								<br />
+								Siemens Competition (2011, Finalist)
+								<br />
+								JSHS National Competition (2011, 3rd Place at National Finals, San Diego)
+								<br />
+								Harvard Book Award
+								<br />
+								Valedictorian, East Greenwich High School
+								<br />
+								Rhode Island Science Fair (2011, Overall Winner - Senior Division Champion)
+							</div>
+</div>
 
   </div>
 
