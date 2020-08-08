@@ -37,10 +37,5 @@ You can find the source code for Jekyll at GitHub:
 <!--- Twitter timeline -->  
 <a class="twitter-timeline" data-width="500" data-height="1000" data-theme="light" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-<!--- Instagram timeline using embedsocial -->
-<div class='embedsocial-instagram' data-ref="37d48f9d2c55702126d48206d7f1b5e6b984a96a"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
-
-
 <!-- Instagram timeline using SnapWidget -->
 <iframe src="https://snapwidget.com/embed/860173" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:735px; height:735px"></iframe>
