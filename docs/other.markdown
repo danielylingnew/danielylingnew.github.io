@@ -42,8 +42,6 @@ You can find the source code for Jekyll at GitHub:
 <div class='embedsocial-instagram' data-ref="37d48f9d2c55702126d48206d7f1b5e6b984a96a"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
 
 
-<!--- Instagram timeline using powr -->
-<div class="powr-instagram-feed" id="18eeaf1b_1596859738"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
-
 <!-- Instagram timeline using SnapWidget -->
-<iframe src="https://snapwidget.com/embed/860173" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:495px; height:495px"></iframe>
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/860173" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
