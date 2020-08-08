@@ -11,6 +11,8 @@ Rhode Island native, Princeton '16, currently a New Yorker.
 
 I am a venture investor at PJC, focusing on enterprise software, consumer technology, tech-enabled marketplaces, differential privacy, and AI.
 
+From 2016 to 2019, I was an investment analyst at Morgan Stanley in NYC. I studied economics as well as mathematics and game theory at Princeton as an undergraduate.
+
 I’ve conducted research in applied mathematics at Princeton, Brown Physics, Brown Chemistry, and the Sloan Kettering Institute for Cancer Research.
 
 Hobbies and interests include soccer, skiing, classical/contemporary piano, film, non-fiction/biography, and 80s music.
