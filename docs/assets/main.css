@@ -280,4 +280,4 @@ table td { border: 1px solid #e8e8e8; }
 
 /*# for adding space between floated images and text */
 
-.spacefloatedimage { margin-left: 20px; }
+.spacefloatedimage { margin-left: 30px; margin-bottom: 30px; }

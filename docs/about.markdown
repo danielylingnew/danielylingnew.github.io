@@ -9,6 +9,8 @@ permalink: /about
 
 Rhode Island native, Princeton '16, currently a New Yorker.
 
+I'm currently a venture investor at PJC, focusing on enterprise software, consumer technology, tech-enabled marketplaces, and AI.
+
 I’ve conducted research in applied mathematics at Princeton, Brown Physics, Brown Chemistry, and the Sloan Kettering Institute for Cancer Research.
 
 Hobbies and interests include soccer, skiing, classical/contemporary piano, film, non-fiction/biography, and 80s music.
