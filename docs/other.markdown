@@ -24,4 +24,8 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll
 
 
-#### Social
+<!--- Social mirroring -->  
+#### Latest from Daniel Ling
+
+<!--- Twitter -->  
+<a class="twitter-timeline" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
