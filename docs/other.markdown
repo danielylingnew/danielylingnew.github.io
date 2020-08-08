@@ -28,4 +28,4 @@ You can find the source code for Jekyll at GitHub:
 #### Latest from Daniel Ling
 
 <!--- Twitter -->  
-<a class="twitter-timeline" data-width="800" data-height="1000" data-theme="light" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="500" data-height="1000" data-theme="light" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
