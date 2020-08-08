@@ -24,11 +24,14 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll
 
 
+
+
+
 <!--- Social mirroring -->  
 #### Latest from Daniel Ling
 
-<!--- Twitter timeline -->  
-<a class="twitter-timeline" data-width="500" data-height="1000" data-theme="light" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <!--- Twitter button -->  
 <a href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @danielyuling</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--- Twitter timeline -->  
+<a class="twitter-timeline" data-width="500" data-height="1000" data-theme="light" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
