@@ -7,8 +7,6 @@ permalink: /about
 
 <img align="right" src="/assets/Photo.jpg" class="img-responsive spacefloatedimage">
 
-test move github folder
-
 Rhode Island native, Princeton '16, currently a New Yorker.
 
 I’ve conducted research in applied mathematics at Princeton, Brown Physics, Brown Chemistry, and the Sloan Kettering Institute for Cancer Research.
