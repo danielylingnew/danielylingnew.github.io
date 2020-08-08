@@ -7,7 +7,7 @@ permalink: /about
 
 <img align="right" src="/assets/Photo.jpg" class="img-responsive spacefloatedimage">
 
-bing bong test 2
+hey there test 3
 
 Rhode Island native, Princeton '16, currently a New Yorker.
 
