@@ -38,5 +38,17 @@ You can find the source code for Jekyll at GitHub:
 <a class="twitter-timeline" data-width="500" data-height="1000" data-theme="light" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<!--- Instagram timeline -->
+<!--- Instagram timeline using embedsocial -->
 <div class='embedsocial-instagram' data-ref="37d48f9d2c55702126d48206d7f1b5e6b984a96a"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
+
+<!--- Instagram timeline using curator -->
+<div id="curator-feed-default-feed-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
+<!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+<script type="text/javascript">
+/* curator-feed-default-feed-layout */
+(function(){
+var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
+i.src = "https://cdn.curator.io/published/9e75cedf-16b0-4a0b-8439-c1cbcf80e9f8.js";
+e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
+})();
+</script>
