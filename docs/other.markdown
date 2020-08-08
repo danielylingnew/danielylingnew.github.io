@@ -43,5 +43,4 @@ You can find the source code for Jekyll at GitHub:
 
 
 <!-- Instagram timeline using SnapWidget -->
-<script src="https://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="https://snapwidget.com/embed/860173" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+<iframe src="https://snapwidget.com/embed/860173" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:615px; height:615px"></iframe>
