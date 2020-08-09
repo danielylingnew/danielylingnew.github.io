@@ -46,16 +46,16 @@ U.S. Presidential Scholar
 National Merit Scholar  
 
 
-<details><summary>CLICK ME</summary>
+<details>
+
+<summary>
+CLICK ME
+</summary>
+
 <p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
+test
 </p>
+
 </details>
 
 

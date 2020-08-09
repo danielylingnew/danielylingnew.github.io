@@ -297,6 +297,7 @@ div.buttonbar {
   		font-size: 16px;
   		font-family: 'Times', serif;
   		cursor: pointer;
+			outline:0;
   	}
 
 div.popup {
