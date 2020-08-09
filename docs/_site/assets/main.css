@@ -303,3 +303,13 @@ div.buttonbar {
 div.popup {
     		margin-top:10px;
     }
+
+
+
+
+/*# for buttons (dropdowns) */
+details > summary {
+  		width: max-content;
+		  border: none;
+		  cursor: pointer;
+		}
