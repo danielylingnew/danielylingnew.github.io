@@ -47,20 +47,6 @@ National Merit Scholar
 
 
 <details>
-
-<summary>
-CLICK ME
-</summary>
-
-<p>
-test
-</p>
-
-</details>
-
-
-
-<details>
 <summary><span style="color: grey;">Additional Honors</span></summary>
 <p>
 Intel Science Talent Search (2012, Semifinalist)
