@@ -80,7 +80,7 @@ Rhode Island Science Fair (2011, Overall Winner - Senior Division Champion)
 </details>
 
 
-<div class="buttonbar">
+
 <button class="button" onclick="myFunction()">
 Additional Honors
 </button>
@@ -100,4 +100,3 @@ Additional Honors
 								<br>
 								Rhode Island Science Fair (2011, Overall Winner - Senior Division Champion)
 							</div>
-</div>
