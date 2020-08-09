@@ -305,11 +305,10 @@ div.popup {
     }
 
 
-
-
 /*# for buttons (dropdowns) */
 details > summary {
   		width: max-content;
+			outline: none;
 		  border: none;
 		  cursor: pointer;
 		}

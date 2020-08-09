@@ -45,7 +45,7 @@ Morgan Stanley (Previously an investment analyst in NYC, 1585 Broadway)
 U.S. Presidential Scholar  
 National Merit Scholar  
 
-
+<!--- Additional Honors -->
 <details>
 <summary><span style="color: grey;">Additional Honors</span></summary>
 <p>
@@ -64,25 +64,3 @@ Valedictorian, East Greenwich High School
 Rhode Island Science Fair (2011, Overall Winner - Senior Division Champion)
 </p>
 </details>
-
-
-
-<button class="button" onclick="myFunction()">
-Additional Honors
-</button>
-
-							<div class="popup"  style="display:none;">
-								Intel Science Talent Search (2012, Semifinalist)
-								<br>
-								Intel International Science & Engineering Fair (2011, Finalist and Special Award Winner)
-								<br>
-								Siemens Competition (2011, Finalist)
-								<br>
-								JSHS National Competition (2011, 3rd Place at National Finals, San Diego)
-								<br>
-								Harvard Book Award
-								<br>
-								Valedictorian, East Greenwich High School
-								<br>
-								Rhode Island Science Fair (2011, Overall Winner - Senior Division Champion)
-							</div>
