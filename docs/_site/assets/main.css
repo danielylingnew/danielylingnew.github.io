@@ -312,6 +312,13 @@ details > summary {
 		  border: none;
 		  cursor: pointer;
 		}
+details > p {
+			clear: both;
+			margin-top: 20px;
+			padding: 4px;
+		  margin: 0;
+		  box-shadow: 1px 1px 2px #bbbbbb;
+		}
 
 /*# to make buttons inline */
 		.ey
@@ -320,4 +327,8 @@ details > summary {
 		 }
 		form{
 		    display:inline-block;
+		}
+
+		.div-inline{
+    display: inline-block;
 		}
