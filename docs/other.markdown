@@ -36,7 +36,7 @@ You can find the source code for Jekyll at GitHub:
 
 <!--- Twitter timeline -->  
 <div style="text-align: center;">
-<a class="twitter-timeline" data-width="600" data-height="1000" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="1000" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <!-- Instagram timeline using SnapWidget -->
