@@ -13,6 +13,7 @@ Morgan Stanley (Previously an investment analyst in NYC, 1585 Broadway)
 
 **Publications**  
 "[On the distribution of DNA translocation times in solid-state nanopores: an analysis using Schrödinger's first-passage-time theory](https://iopscience.iop.org/article/10.1088/0953-8984/25/37/375102/meta)," August 2013. Published in the *Journal of Condensed Matter Physics*.
+<!--- Button bar -->
 <div class="buttonbar" style="margin-top: -15px">
 							<button class="button" onclick="myFunction(&quot;abs1&quot;)" style="color: grey;">
 								Abstract
@@ -42,6 +43,7 @@ Morgan Stanley (Previously an investment analyst in NYC, 1585 Broadway)
 </div>
 
 "[Composite Gold-Silver Alloy Nanoparticles for GFP Interactions](https://pdfs.semanticscholar.org/4900/eb3fbe32df15c0c12232e6a64c0060b989e5.pdf)," 2011. *Submitted*.
+<!--- Button bar -->
 <div class="buttonbar" style="margin-top: -15px">
 							<button class="button" onclick="myFunction(&quot;abs2&quot;)" style="color: grey;">
 								Abstract
@@ -97,7 +99,7 @@ Rhode Island Science Fair (2011, Overall Winner - Senior Division Champion)
 </details>
 
 
-<!--- script for button -->
+<!--- script for button bar -->
 <script>
 function myFunction(id) {
 	var x = document.getElementById(id);
