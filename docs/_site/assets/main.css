@@ -312,3 +312,12 @@ details > summary {
 		  border: none;
 		  cursor: pointer;
 		}
+
+/*# to make buttons inline */
+		.ey
+		 {
+		  display:inline-block;
+		 }
+		form{
+		    display:inline-block;
+		}
