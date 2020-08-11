@@ -11,85 +11,23 @@ permalink: /
 
 
 
-<!---
+<!--
 <style>
-.container {
-    width: 80%;
-    height: 80%;
-    position: absolute;
-    margin:auto;
-    top:0;
-    bottom:0;
-    left:0;
-    right:0;
-    background-color: #aaa;
-    }
-img {
-    max-width: 100%;
-    max-height: 100%;
-    position: absolute;
-    margin:auto;
-    top:0;
-    bottom:0;
-    left:0;
-    right:0;
-    object-fit: contain;
-    }
-</style>
-
-
-
-
-<div class="container">
-        <img src="/assets/HomePhoto.jpg"/>
-</div>
--->
-
-
-
-
-
-
-
-
-
-
-<!---
-<style>
-img {
-  width: 70%;
-  height: 70%;
-  object-fit: contain;
-  margin: auto;
-  position: fixed;
-  top: 0; left: 0; bottom: 0; right: 0;
-  object-fit: cover;
-}
-.text {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  text-align: center;		
+.responsivevertical {
+  max-height: 100%;
+  width: auto;
+  vertical-align: middle;
 }
 </style>
 
 
-<div class="image">
-  <div class="wrap post-content">
-    <img src="/assets/HomePhoto.jpg">
-  </div>
-</div>
 
-<div class="text">Scroll down</div>
+
+<img src="/assets/HomePhoto.jpg" class="responsivevertical">
 -->
 
 
 
-
-
-
-
-
-
-
-<!---- ![HomePhoto](/assets/HomePhoto.jpg){:class="img-responsive"} -->
+<!--
+![HomePhoto](/assets/HomePhoto.jpg){:class="img-responsive"}
+-->
