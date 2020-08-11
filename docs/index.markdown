@@ -11,7 +11,7 @@ permalink: /
 
 
 
-<!--
+
 <style>
 .responsivevertical {
   max-height: 100%;
@@ -24,7 +24,7 @@ permalink: /
 
 
 <img src="/assets/HomePhoto.jpg" class="responsivevertical">
--->
+
 
 
 
