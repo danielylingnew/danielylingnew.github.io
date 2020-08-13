@@ -325,9 +325,9 @@ details > p {
 position:relative;
 bottom:-10px;
 left:0px;
-visibility:hidden;
+visibility: hidden;
 }
 
 #hovertext:hover .text {
-visibility:visible;
+visibility: visible;
 }

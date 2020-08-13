@@ -26,9 +26,9 @@ permalink: /
 
 <div id="hovertext">
 
-<img src="/assets/HomePhoto.jpg" title="hover text" class="hover responsivevertical">
+<img src="/assets/HomePhoto.jpg" title="hover text" class="responsivevertical" class="hover">
 
-<p class="text">Intel ISEF Awards Ceremony (with Shree Bose)</p>
+<p class="hover text">Intel ISEF Awards Ceremony (with Shree Bose)</p>
 
 </div>
 
