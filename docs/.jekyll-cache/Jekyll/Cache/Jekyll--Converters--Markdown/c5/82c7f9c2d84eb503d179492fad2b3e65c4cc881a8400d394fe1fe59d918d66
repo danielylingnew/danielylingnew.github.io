@@ -1,0 +1,20 @@
+I"z<style>
+.responsivevertical {
+  max-height: 100%;
+  width: auto;
+  vertical-align: middle;
+}
+</style>
+
+<div id="hovertext">
+
+<img src="/assets/HomePhoto.jpg" title="Intel ISEF in Los Angeles (with Shree Bose)" class="hover" />
+
+<p class="hover text">Intel ISEF Awards Ceremony (with Shree Bose)</p>
+
+</div>
+
+<!--
+![HomePhoto](/assets/HomePhoto.jpg){:class="img-responsive"}
+-->
+:ET
