@@ -23,9 +23,14 @@ permalink: /
 
 
 
-<img src="/assets/HomePhoto.jpg" class="responsivevertical">
 
+<div id="hovertext">
 
+<img src="/assets/HomePhoto.jpg" title="hover text" class="hover responsivevertical">
+
+<p class="text">Intel ISEF Awards Ceremony (with Shree Bose)</p>
+
+</div>
 
 
 
