@@ -26,7 +26,7 @@ permalink: /
 
 <div id="hovertext">
 
-<img src="/assets/HomePhoto.jpg" title="hover text" class="responsivevertical" class="hover">
+<img src="/assets/HomePhoto.jpg" title="Intel ISEF in Los Angeles (with Shree Bose)" class="responsivevertical" class="hover">
 
 <p class="hover text">Intel ISEF Awards Ceremony (with Shree Bose)</p>
 
