@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications
 ---
 
-I published an applied mathematics paper in the Journal of Physics: Condensed Matter (July 2013). The research proposes a first-passage-time distribution model of single-molecule translocation. The paper has currently been cited over 40 times. It appears to be getting attention from publications in Nature [(1), (2), (3)], Nanotechnology (1), among other journals. I’m excited to see how this impact continues in the future.
+I [published](http://iopscience.iop.org/article/10.1088/0953-8984/25/37/375102/meta) an applied mathematics [paper](/Journal of Condensed Matter Physics 2013 publication.pdf) in the Journal of Physics: Condensed Matter (July 2013). The research proposes a first-passage-time distribution model of single-molecule translocation. The paper has currently been cited over 40 times. It appears to be getting attention from publications in Nature [(1), (2), (3)], Nanotechnology (1), among other journals. I’m excited to see how this impact continues in the future.
 
 My research in applied math appears in Harvard’s High Energy Physics Library, the Harvard-Smithsonian Center for Physics, and CERN. My research is published in condensed matter libraries as well. As a financial sponsor of my research, the NIH also currently features my publication.
 
