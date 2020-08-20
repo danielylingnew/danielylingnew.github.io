@@ -23,7 +23,7 @@ header_pages:
   - publications.markdown
   - news.markdown
   - other.markdown
-  - blog.markdown
+  - danieldelves.markdown
   - CV.markdown
 
 title: Daniel Ling
