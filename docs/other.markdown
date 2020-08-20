@@ -4,13 +4,13 @@ title: Other
 permalink: /other
 ---
 
-I serve as an Alumni Interviewer for Princeton’s Undergraduate Admissions Office, interviewing applicants to Princeton and writing evaluations for use in undergraduate admissions decisions.
+I serve as an Alumni Interviewer for [Princeton’s Undergraduate Admissions Office](https://admission.princeton.edu/), interviewing applicants to Princeton and writing evaluations for use in undergraduate admissions decisions.
 
-I serve as an alumni mentor for the Bendheim Center for Finance at Princeton, as well as a Class of 2012 Representative (and alumni mentor) for the Presidential Scholars Foundation.
+I serve as an alumni mentor for the [Bendheim Center for Finance](https://en.wikipedia.org/wiki/Bendheim_Center_for_Finance) at [Princeton](https://en.wikipedia.org/wiki/Princeton_University), as well as a Class of 2012 Representative (and alumni mentor) for the [Presidential Scholars Foundation](https://www.presidentialscholars.org/).
 
-My father (Xinsheng Ling) grew up in Wuhan and my mother (Hongyu Zhao) grew up in Zhengzhou. Upon graduating from college, they decided to make the giant leap of immigrating to the U.S. (for the first time in their lineages) together for their graduate studies at the University of Connecticut. The U.S. embraced them with open arms and opportunity, and for that I am quite devoted to U.S.-China relations and intercultural understanding. Formerly an invited ambassador for the Ameson Foundation, as a U.S. Presidential Scholar.
+My father (Xinsheng Ling) grew up in Wuhan and my mother (Hongyu Zhao) grew up in Zhengzhou. Upon graduating from college, they decided to make the giant leap of immigrating to the U.S. (for the first time in their lineages) together for their graduate studies at the University of Connecticut. The U.S. embraced them with open arms and opportunity, and for that I am quite devoted to U.S.-China relations and intercultural understanding. Formerly an invited ambassador for the [Ameson Foundation](https://en.wikipedia.org/wiki/Ameson_Education_and_Cultural_Exchange_Foundation), as a [U.S. Presidential Scholar](http://ameson.org/17-english/ameson-projects?start=9).
 
-Here is a soccer highlight (Black Watch Premier vs Boston Bolts, U14).
+[Here](https://www.youtube.com/watch?v=Rru3XR9G8xE) is a soccer highlight (Black Watch Premier vs Boston Bolts, U14).
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
