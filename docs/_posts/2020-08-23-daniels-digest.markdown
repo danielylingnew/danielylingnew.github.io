@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Daniel's Digest"
-date:   2020-08-22
+date:   2020-08-23
 categories: blog post
 permalink: /:categories/:year/:month/:day/:title
 tags: newsletter
