@@ -11,7 +11,7 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {%- if page.modified_date -%}
-        ~ 
+        ~
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
           {{ mdate | date: date_format }}
@@ -25,6 +25,23 @@ layout: default
         {% endfor %}
       {%- endif -%}</p>
   </header>
+
+  <!-- for displaying categories -->
+  Categories:
+  <div class="post-categories" style="display:inline">
+    {% if post %}
+      {% assign categories = post.categories %}
+    {% else %}
+      {% assign categories = page.categories %}
+    {% endif %}
+    {% for category in categories %}
+    <a href="/categories">{{category}}</a>
+    {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
+    {% endfor %}
+  </div>
+
+  <br>
+  <br>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
