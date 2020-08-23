@@ -4,6 +4,7 @@ title:  "Daniel's Digest"
 date:   2020-08-23
 categories: blog post newsletter
 permalink: /:year/:month/:day/:title
+tags: writing productivity music mindset
 ---
 
 *This is my weekly newsletter where I write about health, productivity, and mindset. I'll be sharing it here every Sunday.*

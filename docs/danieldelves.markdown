@@ -11,4 +11,5 @@ Hi friends,
 
 Whenever I get the chance, I like to spend a few minutes writing about what I'm learning and sharing it here. Thanks for reading.
 
-[Categories](/categories)
+[Categories](/categories) &nbsp;|&nbsp;
+[Tags](/tags)

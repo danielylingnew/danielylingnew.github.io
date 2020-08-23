@@ -4,7 +4,7 @@ title:  "Wilson"
 date:   2019-11-02
 categories: [blog, post, book review]
 permalink: /:year/:month/:day/:title
-tag: book review
+tag: [decision-making, U.S. history]
 ---
 
 There were many fascinating aspects of Wilson's career and approach that I discovered while reading this book, but one thing stood out that I wanted to discuss briefly. His devotion to his faith.

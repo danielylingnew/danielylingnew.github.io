@@ -4,6 +4,5 @@ title:  "Hello!"
 date:   2020-08-10
 categories: blog post
 permalink: /:year/:month/:day/:title
-tags: testtag testtag2
 ---
 Hello, World! I'm excited to have built this site with Jekyll. Thanks for visiting.

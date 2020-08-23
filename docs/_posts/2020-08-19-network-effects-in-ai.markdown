@@ -2,9 +2,9 @@
 layout: post
 title:  "Network Effects in AI"
 date:   2020-08-19
-categories: [blog, post, AI, applied math, VC, investing]
+categories: blog post
 permalink: /:year/:month/:day/:title
-tags:
+tags: [AI, applied math, VC, investing]
 ---
 
 **Market Landscape and Context**

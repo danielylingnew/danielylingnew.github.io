@@ -41,6 +41,22 @@ layout: default
   </div>
 
   <br>
+
+  <!-- for displaying tags -->
+  Tags:
+  <div class="post-tags" style="display:inline">
+    {% if post %}
+      {% assign tags = post.tags %}
+    {% else %}
+      {% assign tags = page.tags %}
+    {% endif %}
+    {% for tag in tags %}
+    <a href="/tags">{{tag}}</a>
+    {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
+    {% endfor %}
+  </div>
+
+  <br>
   <br>
 
   <div class="post-content e-content" itemprop="articleBody">
