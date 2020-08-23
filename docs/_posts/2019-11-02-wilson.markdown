@@ -3,7 +3,7 @@ layout: post
 title:  "Wilson"
 date:   2019-11-02
 categories: [blog, post, book review]
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 tag: book review
 ---
 

@@ -1,4 +1,4 @@
-I"A
+I"ã
 <p><a name="AI"></a></p>
 <h3>AI</h3>
 <ul class="related-posts">
@@ -27,15 +27,15 @@
 <h3>blog</h3>
 <ul class="related-posts">
 
-   <li><a href="/blog/post/newsletter/2020/08/23/daniels-digest">Daniel's Digest</a> <small>23 Aug 2020</small></li>
+   <li><a href="/2020/08/23/daniels-digest">Daniel's Digest</a> <small>23 Aug 2020</small></li>
 
    <li><a href="/2020/08/19/network-effects-in-ai">Network Effects in AI</a> <small>19 Aug 2020</small></li>
 
-   <li><a href="/blog/post/2020/08/10/hello">Hello!</a> <small>10 Aug 2020</small></li>
+   <li><a href="/2020/08/10/hello">Hello!</a> <small>10 Aug 2020</small></li>
 
-   <li><a href="/blog/post/2020/08/03/welcome-to-jekyll">Welcome to Jekyll!</a> <small>03 Aug 2020</small></li>
+   <li><a href="/2020/08/03/welcome-to-jekyll">Welcome to Jekyll!</a> <small>03 Aug 2020</small></li>
 
-   <li><a href="/blog/post/book%20review/2019/11/02/wilson">Wilson</a> <small>02 Nov 2019</small></li>
+   <li><a href="/2019/11/02/wilson">Wilson</a> <small>02 Nov 2019</small></li>
 
 </ul>
 
@@ -43,7 +43,7 @@
 <h3>book review</h3>
 <ul class="related-posts">
 
-   <li><a href="/blog/post/book%20review/2019/11/02/wilson">Wilson</a> <small>02 Nov 2019</small></li>
+   <li><a href="/2019/11/02/wilson">Wilson</a> <small>02 Nov 2019</small></li>
 
 </ul>
 
@@ -59,7 +59,7 @@
 <h3>newsletter</h3>
 <ul class="related-posts">
 
-   <li><a href="/blog/post/newsletter/2020/08/23/daniels-digest">Daniel's Digest</a> <small>23 Aug 2020</small></li>
+   <li><a href="/2020/08/23/daniels-digest">Daniel's Digest</a> <small>23 Aug 2020</small></li>
 
 </ul>
 
@@ -67,15 +67,15 @@
 <h3>post</h3>
 <ul class="related-posts">
 
-   <li><a href="/blog/post/newsletter/2020/08/23/daniels-digest">Daniel's Digest</a> <small>23 Aug 2020</small></li>
+   <li><a href="/2020/08/23/daniels-digest">Daniel's Digest</a> <small>23 Aug 2020</small></li>
 
    <li><a href="/2020/08/19/network-effects-in-ai">Network Effects in AI</a> <small>19 Aug 2020</small></li>
 
-   <li><a href="/blog/post/2020/08/10/hello">Hello!</a> <small>10 Aug 2020</small></li>
+   <li><a href="/2020/08/10/hello">Hello!</a> <small>10 Aug 2020</small></li>
 
-   <li><a href="/blog/post/2020/08/03/welcome-to-jekyll">Welcome to Jekyll!</a> <small>03 Aug 2020</small></li>
+   <li><a href="/2020/08/03/welcome-to-jekyll">Welcome to Jekyll!</a> <small>03 Aug 2020</small></li>
 
-   <li><a href="/blog/post/book%20review/2019/11/02/wilson">Wilson</a> <small>02 Nov 2019</small></li>
+   <li><a href="/2019/11/02/wilson">Wilson</a> <small>02 Nov 2019</small></li>
 
 </ul>
 
@@ -91,7 +91,7 @@
     <a name="blog"></a>
     
     <article class="archive-item">
-      <h4><a href="/blog/post/newsletter/2020/08/23/daniels-digest">Daniel's Digest</a></h4>
+      <h4><a href="/2020/08/23/daniels-digest">Daniel's Digest</a></h4>
     </article>
     
     <article class="archive-item">
@@ -99,15 +99,15 @@
     </article>
     
     <article class="archive-item">
-      <h4><a href="/blog/post/2020/08/10/hello">Hello!</a></h4>
+      <h4><a href="/2020/08/10/hello">Hello!</a></h4>
     </article>
     
     <article class="archive-item">
-      <h4><a href="/blog/post/2020/08/03/welcome-to-jekyll">Welcome to Jekyll!</a></h4>
+      <h4><a href="/2020/08/03/welcome-to-jekyll">Welcome to Jekyll!</a></h4>
     </article>
     
     <article class="archive-item">
-      <h4><a href="/blog/post/book%20review/2019/11/02/wilson">Wilson</a></h4>
+      <h4><a href="/2019/11/02/wilson">Wilson</a></h4>
     </article>
     
   </div>
@@ -121,7 +121,7 @@
     <a name="post"></a>
     
     <article class="archive-item">
-      <h4><a href="/blog/post/newsletter/2020/08/23/daniels-digest">Daniel's Digest</a></h4>
+      <h4><a href="/2020/08/23/daniels-digest">Daniel's Digest</a></h4>
     </article>
     
     <article class="archive-item">
@@ -129,15 +129,15 @@
     </article>
     
     <article class="archive-item">
-      <h4><a href="/blog/post/2020/08/10/hello">Hello!</a></h4>
+      <h4><a href="/2020/08/10/hello">Hello!</a></h4>
     </article>
     
     <article class="archive-item">
-      <h4><a href="/blog/post/2020/08/03/welcome-to-jekyll">Welcome to Jekyll!</a></h4>
+      <h4><a href="/2020/08/03/welcome-to-jekyll">Welcome to Jekyll!</a></h4>
     </article>
     
     <article class="archive-item">
-      <h4><a href="/blog/post/book%20review/2019/11/02/wilson">Wilson</a></h4>
+      <h4><a href="/2019/11/02/wilson">Wilson</a></h4>
     </article>
     
   </div>
@@ -151,7 +151,7 @@
     <a name="book review"></a>
     
     <article class="archive-item">
-      <h4><a href="/blog/post/book%20review/2019/11/02/wilson">Wilson</a></h4>
+      <h4><a href="/2019/11/02/wilson">Wilson</a></h4>
     </article>
     
   </div>
@@ -221,7 +221,7 @@
     <a name="newsletter"></a>
     
     <article class="archive-item">
-      <h4><a href="/blog/post/newsletter/2020/08/23/daniels-digest">Daniel's Digest</a></h4>
+      <h4><a href="/2020/08/23/daniels-digest">Daniel's Digest</a></h4>
     </article>
     
   </div>
