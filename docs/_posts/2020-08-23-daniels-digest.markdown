@@ -2,9 +2,8 @@
 layout: post
 title:  "Daniel's Digest"
 date:   2020-08-23
-categories: blog post
+categories: blog post newsletter
 permalink: /:categories/:year/:month/:day/:title
-tags: newsletter
 ---
 
 *This is my weekly newsletter where I write about health, productivity, and mindset. I'll be sharing it here every Sunday.*
