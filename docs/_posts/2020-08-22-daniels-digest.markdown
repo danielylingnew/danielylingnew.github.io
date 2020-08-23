@@ -15,7 +15,7 @@ I went on a morning walk yesterday as the sun was going up, and it was glorious.
 
 It was quiet and serene. A multitude of birds were out and about in my neighborhood. I could still hear the quiet but ever present hum of the remaining nighttime grasshoppers chirping. And of course, the steady patter of my footsteps underneath.
 
-I've never been so grateful to be in a serene environment. I've worked in two major urban centers since graduating from college, and have enjoyed every minute of it. But I feel we can often take for granted the serene moments and tranquil settings that we may find ourselves in. We often yearn for commotion, volatility. But it's important to cherish our serene surroundings when we do have it. While many of us are working remotely during this time of COVID-19, may we seek out the moments of solitude and calmness when we can. It's good to disconnect for a bit.
+I've never been so grateful to be in a serene environment. I've worked in two of the major U.S. urban centers since graduating from college, and have enjoyed every minute of it. But I feel we can often take for granted the serene moments and tranquil settings that we may find ourselves in. We often yearn for commotion, volatility. But it's important to cherish our serene surroundings when we do have it. While many of us are working remotely during this time of COVID-19, may we seek out the moments of solitude and calmness when we can. It's good to disconnect for a bit.
 
 Have a great week!\
 Daniel
