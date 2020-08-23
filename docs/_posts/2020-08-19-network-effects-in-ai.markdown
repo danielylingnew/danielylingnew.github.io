@@ -2,8 +2,8 @@
 layout: post
 title:  "Network Effects in AI"
 date:   2020-08-19
-categories: blog post
-permalink: /:categories/:year/:month/:day/:title
+categories: [blog, post, AI, applied math, VC, investing]
+permalink: /:year/:month/:day/:title
 tags:
 ---
 
