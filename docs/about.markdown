@@ -15,7 +15,9 @@ From 2016 to 2019, I was an investment analyst at Morgan Stanley in NYC. I studi
 
 I’ve conducted research in applied mathematics at [Princeton University](https://economics.princeton.edu/), [Brown Physics](https://www.brown.edu/academics/physics/), [Brown Chemistry](https://www.brown.edu/academics/chemistry/home), and the [Sloan Kettering Institute for Cancer Research](https://www.mskcc.org/research/ski).
 
-Hobbies and interests include soccer, skiing, classical/contemporary piano, film, non-fiction/biography, and 80s music.
+I've served as Director of Communications/Strategy for the Presidential Scholars Foundation, and have been involved with the alumni association at the Society for Science & the Public. I also serve as an alumni mentor for Princeton's Bendheim Center for Finance.
+
+Hobbies and interests include soccer, skiing, classical/contemporary piano, music composition/theory, film, non-fiction/biography, and 80s music.
 
 Member of the Princeton Ski Team and the Tiger Inn.
 
