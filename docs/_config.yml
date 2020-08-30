@@ -24,6 +24,7 @@ header_pages:
   - news.markdown
   - other.markdown
   - danieldelves.markdown
+  - podcast.markdown
   - CV.markdown
 
 title: Daniel Ling
