@@ -9,6 +9,7 @@ tags:
 - approach
 - mindset
 - mental model
+- decision-making
 ---
 
 ### *My [Traveling + With a Purpose] Framework: A Mental Model for Life Satisfaction*
