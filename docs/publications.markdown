@@ -17,14 +17,3 @@ I continue to be greatly interested in physics and chemistry, especially in conj
 I conducted my [senior thesis](https://dataspace.princeton.edu/jspui/handle/88435/dsp01bn9999183) at Princeton on applications of game theory and mechanism design in loan markets with information asymmetry. The thesis focuses on applied math in economics and contract theory. It was an honor to be advised by Professor [Stephen E. Morris](https://en.wikipedia.org/wiki/Stephen_Morris_(game_theorist)), economist and game theorist.
 
 My thesis is available upon request.
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

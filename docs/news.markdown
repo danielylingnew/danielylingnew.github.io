@@ -31,14 +31,3 @@ I was selected for the [All-State Team](http://www.providencejournal.com/article
 [Save the bay](http://bdcampbell.net/oworld/stb/view_signers.php). Environmental protection is of paramount importance in Rhode Island.
 
 My academic endeavors sometimes [coincided](https://patch.com/rhode-island/eastgreenwich/eg-boys-soccer-lose-to-smithfield-3-1-in-d-ii-state-c26e6576ecd) with my athletic pursuits. Well, that’s [life](https://en.wikipedia.org/wiki/This_Is_Water).
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
