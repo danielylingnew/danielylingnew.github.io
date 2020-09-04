@@ -4,8 +4,8 @@
     <title></title>
     <description>
 Welcome to my website! Thanks for visiting.</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Daniel's Digest</title>
@@ -66,8 +66,8 @@ Daniel&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Sun, 30 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//2020/08/30/daniels-digest</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/08/30/daniels-digest</guid>
+        <link>//2020/08/30/daniels-digest</link>
+        <guid isPermaLink="true">//2020/08/30/daniels-digest</guid>
       </item>
     
       <item>
@@ -91,8 +91,8 @@ Daniel&lt;/p&gt;
 &lt;p&gt;I hope this is helpful, interesting, or at the very least, that it stirs the pot of debate over what does/does not promote happiness in our lives - in hopes that we can all figure out our own ways of maximizing it. Thanks for reading out there.&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//2020/08/29/a-mental-model-for-life-satisfaction</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/08/29/a-mental-model-for-life-satisfaction</guid>
+        <link>//2020/08/29/a-mental-model-for-life-satisfaction</link>
+        <guid isPermaLink="true">//2020/08/29/a-mental-model-for-life-satisfaction</guid>
       </item>
     
       <item>
@@ -106,8 +106,8 @@ Daniel&lt;/p&gt;
 &lt;p&gt;Moreover, with this framework in mind, your brain is free to just “generate”, not store. It’s quite liberating. I also love the community of Notion users who all appear to have a proclivity for personal development. Check out their template gallery for everything from habit trackers to journal templates, to workout planners. A lovely bunch indeed. Cheerio!&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//2020/08/26/notion</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/08/26/notion</guid>
+        <link>//2020/08/26/notion</link>
+        <guid isPermaLink="true">//2020/08/26/notion</guid>
       </item>
     
       <item>
@@ -148,8 +148,8 @@ Daniel&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 25 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//2020/08/25/messi-leaving-barcelona</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/08/25/messi-leaving-barcelona</guid>
+        <link>//2020/08/25/messi-leaving-barcelona</link>
+        <guid isPermaLink="true">//2020/08/25/messi-leaving-barcelona</guid>
       </item>
     
       <item>
@@ -197,8 +197,8 @@ Daniel&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Sun, 23 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//2020/08/23/daniels-digest</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/08/23/daniels-digest</guid>
+        <link>//2020/08/23/daniels-digest</link>
+        <guid isPermaLink="true">//2020/08/23/daniels-digest</guid>
       </item>
     
       <item>
@@ -256,8 +256,8 @@ Daniel&lt;/p&gt;
 &lt;p&gt;AI/ML products tend to inherently exhibit data network effects, but not all companies are able to leverage these effects to their advantage. Complexity of data poses one limitation, leading to the growing importance of data management and data scientists. Further downstream, the potential for competitive advantage also is dependent on the specific use case. While recommender systems are a popular use case where AI/ML has provided companies with data network effects that give rise to competitive advantages, the same positive effects are hard to unlock in facial recognition, home devices, and certain subareas of robotics.&lt;/p&gt;
 </description>
         <pubDate>Wed, 19 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//2020/08/19/network-effects-in-ai</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/08/19/network-effects-in-ai</guid>
+        <link>//2020/08/19/network-effects-in-ai</link>
+        <guid isPermaLink="true">//2020/08/19/network-effects-in-ai</guid>
       </item>
     
       <item>
@@ -265,8 +265,8 @@ Daniel&lt;/p&gt;
         <description>&lt;p&gt;Hello, World! I’m excited to have built this site with Jekyll. Thanks for visiting.&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//2020/08/10/hello</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/08/10/hello</guid>
+        <link>//2020/08/10/hello</link>
+        <guid isPermaLink="true">//2020/08/10/hello</guid>
       </item>
     
       <item>
@@ -291,8 +291,8 @@ Daniel&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 03 Aug 2020 20:14:10 -0400</pubDate>
-        <link>http://localhost:4000//2020/08/03/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/08/03/welcome-to-jekyll</guid>
+        <link>//2020/08/03/welcome-to-jekyll</link>
+        <guid isPermaLink="true">//2020/08/03/welcome-to-jekyll</guid>
       </item>
     
       <item>
@@ -322,8 +322,8 @@ Daniel&lt;/p&gt;
 &lt;p&gt;Reading about Wilson encouraged me to re-examine how things are done now in modern politics, with a hope that principle over pretense can win in the end.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//2019/11/02/wilson</link>
-        <guid isPermaLink="true">http://localhost:4000//2019/11/02/wilson</guid>
+        <link>//2019/11/02/wilson</link>
+        <guid isPermaLink="true">//2019/11/02/wilson</guid>
       </item>
     
   </channel>
