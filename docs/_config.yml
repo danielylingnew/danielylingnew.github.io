@@ -27,6 +27,10 @@ header_pages:
   - podcast.markdown
   - CV.markdown
 
+# for RSS feed
+plugins:
+  - jekyll-feed
+
 title: Daniel Ling
 email: dling@alumni.princeton.edu
 description: >- # this means to ignore newlines until "baseurl:"
