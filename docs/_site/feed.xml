@@ -1,5 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-01T19:09:30-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel Ling</title><subtitle>
-Welcome to my website! Thanks for visiting.</subtitle><entry><title type="html">Daniel’s Digest</title><link href="http://localhost:4000/2020/08/30/daniels-digest" rel="alternate" type="text/html" title="Daniel’s Digest" /><published>2020-08-30T00:00:00-04:00</published><updated>2020-08-30T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/30/daniels-digest</id><content type="html" xml:base="http://localhost:4000/2020/08/30/daniels-digest">&lt;p&gt;&lt;em&gt;Every Sunday, I write a quick newsletter to share some thoughts, topics I’ve learned, and a few of my favorite things from the week. Enjoy!&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>
+Welcome to my website! Thanks for visiting.</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Daniel's Digest</title>
+        <description>&lt;p&gt;&lt;em&gt;Every Sunday, I write a quick newsletter to share some thoughts, topics I’ve learned, and a few of my favorite things from the week. Enjoy!&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Hey friends,&lt;/p&gt;
 
@@ -53,7 +63,16 @@ Daniel&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“Life is like being a sprinter; long stretches of hard work punctuated by brief moments in which we are given the opportunity to perform at our best.” - Michael Johnson&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="blog" /><category term="post" /><category term="newsletter" /><category term="health" /><category term="innovation" /><category term="decision-making" /><category term="sports" /><category term="writing" /><category term="mindset" /><category term="approach" /><summary type="html">Every Sunday, I write a quick newsletter to share some thoughts, topics I’ve learned, and a few of my favorite things from the week. Enjoy!</summary></entry><entry><title type="html">A Mental Model for Life Satisfaction</title><link href="http://localhost:4000/2020/08/29/a-mental-model-for-life-satisfaction" rel="alternate" type="text/html" title="A Mental Model for Life Satisfaction" /><published>2020-08-29T00:00:00-04:00</published><updated>2020-08-29T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/29/a-mental-model-for-life-satisfaction</id><content type="html" xml:base="http://localhost:4000/2020/08/29/a-mental-model-for-life-satisfaction">&lt;h3 id=&quot;my-traveling--with-a-purpose-framework-a-mental-model-for-life-satisfaction&quot;&gt;&lt;em&gt;My [Traveling + With a Purpose] Framework: A Mental Model for Life Satisfaction&lt;/em&gt;&lt;/h3&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 30 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//2020/08/30/daniels-digest</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/08/30/daniels-digest</guid>
+      </item>
+    
+      <item>
+        <title>A Mental Model for Life Satisfaction</title>
+        <description>&lt;h3 id=&quot;my-traveling--with-a-purpose-framework-a-mental-model-for-life-satisfaction&quot;&gt;&lt;em&gt;My [Traveling + With a Purpose] Framework: A Mental Model for Life Satisfaction&lt;/em&gt;&lt;/h3&gt;
 
 &lt;p&gt;It all started with a recent blog post I read from a friend of mine who left his largely sedentary job tied to a cubicle, to travel the world and take on an all-remote job, and his reactions to it. He said that, while it was nice to travel around and see new places and meet new people, he began to feel that life was transitory. Yes, it was great to see the world. But, in seeing the expansive world that we live in, his nomadic life began to lead to feelings of meaninglessness, especially when it was not directly anchored to work (which allows for a tangible &amp;amp; daily sense of purpose) on a regular basis.&lt;/p&gt;
 
@@ -69,13 +88,31 @@ Daniel&lt;/p&gt;
 
 &lt;p&gt;In the model where travel and work are two levers for life satisfaction, it appears that the ideal allocation would be a mix of the two in order to maximize the dependent variable (in this case “life satisfaction”).&lt;/p&gt;
 
-&lt;p&gt;I hope this is helpful, interesting, or at the very least, that it stirs the pot of debate over what does/does not promote happiness in our lives - in hopes that we can all figure out our own ways of maximizing it. Thanks for reading out there.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="post" /><category term="productivity" /><category term="approach" /><category term="mindset" /><category term="mental model" /><category term="decision-making" /><summary type="html">My [Traveling + With a Purpose] Framework: A Mental Model for Life Satisfaction</summary></entry><entry><title type="html">Notion</title><link href="http://localhost:4000/2020/08/26/notion" rel="alternate" type="text/html" title="Notion" /><published>2020-08-26T00:00:00-04:00</published><updated>2020-08-26T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/26/notion</id><content type="html" xml:base="http://localhost:4000/2020/08/26/notion">&lt;p&gt;I was going to include this in the next newsletter, but wanted to have a dedicated post on Notion, given how useful I’ve found it to be. I first discovered Notion after seeing that it had a use case as a browser extension for saving links for later reference. The company then received much more widespread recognition following their last fundraise on a $2B valuation.&lt;/p&gt;
+&lt;p&gt;I hope this is helpful, interesting, or at the very least, that it stirs the pot of debate over what does/does not promote happiness in our lives - in hopes that we can all figure out our own ways of maximizing it. Thanks for reading out there.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//2020/08/29/a-mental-model-for-life-satisfaction</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/08/29/a-mental-model-for-life-satisfaction</guid>
+      </item>
+    
+      <item>
+        <title>Notion</title>
+        <description>&lt;p&gt;I was going to include this in the next newsletter, but wanted to have a dedicated post on Notion, given how useful I’ve found it to be. I first discovered Notion after seeing that it had a use case as a browser extension for saving links for later reference. The company then received much more widespread recognition following their last fundraise on a $2B valuation.&lt;/p&gt;
 
 &lt;p&gt;In short, I use Notion for pretty much everything, from daily planning, to weekly planning, to journaling, morning pages, and even as a master task database with Notion’s amazing database features. Using relational databases in particular has been hugely useful, for example for enabling networked thoughts in my various writing databases.&lt;/p&gt;
 
 &lt;p&gt;Using Notion also aligns with a mental framework that I’ve developed, which is the concept that the brain should just be for generating ideas, not for storing them. It touches on an emerging body of research that points to the value of personal knowledge management. With personal knowledge management, you’re effectively building a “second brain” to retain all the information that you’re consuming and any piece of content that you happen to resonate with. This is useful if you’d like to reference it later on for example. More on this later, but how often have you read an article or consumed a piece of content that really resonated with you, and wished that you could somehow keep it along with your accompanying thoughts? Notion is perfect for this. If I read an article that I really like, I’ll immediately share it into Notion, write some thoughts I have about it, and save it down.&lt;/p&gt;
 
-&lt;p&gt;Moreover, with this framework in mind, your brain is free to just “generate”, not store. It’s quite liberating. I also love the community of Notion users who all appear to have a proclivity for personal development. Check out their template gallery for everything from habit trackers to journal templates, to workout planners. A lovely bunch indeed. Cheerio!&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="post" /><category term="productivity" /><category term="writing" /><summary type="html">I was going to include this in the next newsletter, but wanted to have a dedicated post on Notion, given how useful I’ve found it to be. I first discovered Notion after seeing that it had a use case as a browser extension for saving links for later reference. The company then received much more widespread recognition following their last fundraise on a $2B valuation.</summary></entry><entry><title type="html">Messi Leaving Barcelona</title><link href="http://localhost:4000/2020/08/25/messi-leaving-barcelona" rel="alternate" type="text/html" title="Messi Leaving Barcelona" /><published>2020-08-25T00:00:00-04:00</published><updated>2020-08-25T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/25/messi-leaving-barcelona</id><content type="html" xml:base="http://localhost:4000/2020/08/25/messi-leaving-barcelona">&lt;p&gt;I’ve always idolized Messi ever since he made his World Cup debut in 2006 against Serbia &amp;amp; Montenegro. I remember the hype around him during this debut, and was skeptical. Now, amidst talks in the sporting world about the biggest prospective transfer of all time, I’d like to use this as a moment to reflect on the qualities of Messi that have led to his success. These are characteristics of Messi that I’ve come to appreciate and strive to learn from, which I extrapolate as life lessons and applicable to every career:&lt;/p&gt;
+&lt;p&gt;Moreover, with this framework in mind, your brain is free to just “generate”, not store. It’s quite liberating. I also love the community of Notion users who all appear to have a proclivity for personal development. Check out their template gallery for everything from habit trackers to journal templates, to workout planners. A lovely bunch indeed. Cheerio!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//2020/08/26/notion</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/08/26/notion</guid>
+      </item>
+    
+      <item>
+        <title>Messi Leaving Barcelona</title>
+        <description>&lt;p&gt;I’ve always idolized Messi ever since he made his World Cup debut in 2006 against Serbia &amp;amp; Montenegro. I remember the hype around him during this debut, and was skeptical. Now, amidst talks in the sporting world about the biggest prospective transfer of all time, I’d like to use this as a moment to reflect on the qualities of Messi that have led to his success. These are characteristics of Messi that I’ve come to appreciate and strive to learn from, which I extrapolate as life lessons and applicable to every career:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -108,7 +145,16 @@ Daniel&lt;/p&gt;
   &lt;li&gt;
     &lt;p&gt;Side note: Amidst all the Man City rumors, seeing Messi at Juventus alongside Ronaldo would be a spectacle to watch. My hunch though is Inter Milan or Man City.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="blog" /><category term="post" /><category term="approach" /><category term="mindset" /><category term="sports" /><summary type="html">I’ve always idolized Messi ever since he made his World Cup debut in 2006 against Serbia &amp;amp; Montenegro. I remember the hype around him during this debut, and was skeptical. Now, amidst talks in the sporting world about the biggest prospective transfer of all time, I’d like to use this as a moment to reflect on the qualities of Messi that have led to his success. These are characteristics of Messi that I’ve come to appreciate and strive to learn from, which I extrapolate as life lessons and applicable to every career:</summary></entry><entry><title type="html">Daniel’s Digest</title><link href="http://localhost:4000/2020/08/23/daniels-digest" rel="alternate" type="text/html" title="Daniel’s Digest" /><published>2020-08-23T00:00:00-04:00</published><updated>2020-08-23T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/23/daniels-digest</id><content type="html" xml:base="http://localhost:4000/2020/08/23/daniels-digest">&lt;p&gt;&lt;em&gt;This is my weekly newsletter where I write about health, productivity, and mindset. I’ll be sharing it here every Sunday.&lt;/em&gt;&lt;/p&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 25 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//2020/08/25/messi-leaving-barcelona</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/08/25/messi-leaving-barcelona</guid>
+      </item>
+    
+      <item>
+        <title>Daniel's Digest</title>
+        <description>&lt;p&gt;&lt;em&gt;This is my weekly newsletter where I write about health, productivity, and mindset. I’ll be sharing it here every Sunday.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Hey friends,&lt;/p&gt;
 
@@ -148,7 +194,16 @@ Daniel&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.” - Antoine de Saint-Exupéry&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="blog" /><category term="post" /><category term="newsletter" /><category term="writing" /><category term="productivity" /><category term="music" /><category term="mindset" /><summary type="html">This is my weekly newsletter where I write about health, productivity, and mindset. I’ll be sharing it here every Sunday.</summary></entry><entry><title type="html">Network Effects in AI</title><link href="http://localhost:4000/2020/08/19/network-effects-in-ai" rel="alternate" type="text/html" title="Network Effects in AI" /><published>2020-08-19T00:00:00-04:00</published><updated>2020-08-19T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/19/network-effects-in-ai</id><content type="html" xml:base="http://localhost:4000/2020/08/19/network-effects-in-ai">&lt;p&gt;&lt;strong&gt;Market Landscape and Context&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 23 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//2020/08/23/daniels-digest</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/08/23/daniels-digest</guid>
+      </item>
+    
+      <item>
+        <title>Network Effects in AI</title>
+        <description>&lt;p&gt;&lt;strong&gt;Market Landscape and Context&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In present day market environments, network effects drive about 70% of value for technology companies and technology-enabled services. Emerging trends in AI point to many potential areas where network effects can amplify product utility and customer adoption, and in turn drive a large portion of market value for technology companies. It can be hugely valuable in early product development to architect a product to allow users to participate in value creation, and effectively let the use of the product add value to the other users. Every incremental customer can effectively add value to each existing customer, as well as each future customer.&lt;/p&gt;
 
@@ -198,7 +253,25 @@ Daniel&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Roadmap for Leveraging Data Network Effects &amp;amp; Potential Limitations&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;AI/ML products tend to inherently exhibit data network effects, but not all companies are able to leverage these effects to their advantage. Complexity of data poses one limitation, leading to the growing importance of data management and data scientists. Further downstream, the potential for competitive advantage also is dependent on the specific use case. While recommender systems are a popular use case where AI/ML has provided companies with data network effects that give rise to competitive advantages, the same positive effects are hard to unlock in facial recognition, home devices, and certain subareas of robotics.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="post" /><category term="AI" /><category term="applied math" /><category term="VC" /><category term="investing" /><summary type="html">Market Landscape and Context</summary></entry><entry><title type="html">Hello!</title><link href="http://localhost:4000/2020/08/10/hello" rel="alternate" type="text/html" title="Hello!" /><published>2020-08-10T00:00:00-04:00</published><updated>2020-08-10T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/10/hello</id><content type="html" xml:base="http://localhost:4000/2020/08/10/hello">&lt;p&gt;Hello, World! I’m excited to have built this site with Jekyll. Thanks for visiting.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="post" /><summary type="html">Hello, World! I’m excited to have built this site with Jekyll. Thanks for visiting.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2020/08/03/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-08-03T20:14:10-04:00</published><updated>2020-08-03T20:14:10-04:00</updated><id>http://localhost:4000/2020/08/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2020/08/03/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;AI/ML products tend to inherently exhibit data network effects, but not all companies are able to leverage these effects to their advantage. Complexity of data poses one limitation, leading to the growing importance of data management and data scientists. Further downstream, the potential for competitive advantage also is dependent on the specific use case. While recommender systems are a popular use case where AI/ML has provided companies with data network effects that give rise to competitive advantages, the same positive effects are hard to unlock in facial recognition, home devices, and certain subareas of robotics.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//2020/08/19/network-effects-in-ai</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/08/19/network-effects-in-ai</guid>
+      </item>
+    
+      <item>
+        <title>Hello!</title>
+        <description>&lt;p&gt;Hello, World! I’m excited to have built this site with Jekyll. Thanks for visiting.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Aug 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//2020/08/10/hello</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/08/10/hello</guid>
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
@@ -214,7 +287,17 @@ Daniel&lt;/p&gt;
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="post" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Wilson</title><link href="http://localhost:4000/2019/11/02/wilson" rel="alternate" type="text/html" title="Wilson" /><published>2019-11-02T00:00:00-04:00</published><updated>2019-11-02T00:00:00-04:00</updated><id>http://localhost:4000/2019/11/02/wilson</id><content type="html" xml:base="http://localhost:4000/2019/11/02/wilson">&lt;p&gt;There were many fascinating aspects of Wilson’s career and approach that I discovered while reading this book, but one thing stood out that I wanted to discuss briefly. His devotion to his faith.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 03 Aug 2020 20:14:10 -0400</pubDate>
+        <link>http://localhost:4000//2020/08/03/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/08/03/welcome-to-jekyll</guid>
+      </item>
+    
+      <item>
+        <title>Wilson</title>
+        <description>&lt;p&gt;There were many fascinating aspects of Wilson’s career and approach that I discovered while reading this book, but one thing stood out that I wanted to discuss briefly. His devotion to his faith.&lt;/p&gt;
 
 &lt;p&gt;This book shed light on aspects of Wilson’s life that aren’t readily apparent, and one area of his life that resonated with me was his unwavering commitment to Christianity (it should be noted that I did not grow up in a Christian household).&lt;/p&gt;
 
@@ -236,4 +319,12 @@ Daniel&lt;/p&gt;
 
 &lt;p&gt;In 1912, he entered into one of the most thrilling races in the history of the United States, defeating two worthy candidates in the Republican incumbent William Taft, and the progressive Theodore Roosevelt from the Bull Moose Party (a unique event in the country’s traditional two-party duopolistic system). The rest is history.&lt;/p&gt;
 
-&lt;p&gt;Reading about Wilson encouraged me to re-examine how things are done now in modern politics, with a hope that principle over pretense can win in the end.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="post" /><category term="book review" /><category term="decision-making" /><category term="U.S. history" /><summary type="html">There were many fascinating aspects of Wilson’s career and approach that I discovered while reading this book, but one thing stood out that I wanted to discuss briefly. His devotion to his faith.</summary></entry></feed>
+&lt;p&gt;Reading about Wilson encouraged me to re-examine how things are done now in modern politics, with a hope that principle over pretense can win in the end.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Nov 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//2019/11/02/wilson</link>
+        <guid isPermaLink="true">http://localhost:4000//2019/11/02/wilson</guid>
+      </item>
+    
+  </channel>
+</rss>
