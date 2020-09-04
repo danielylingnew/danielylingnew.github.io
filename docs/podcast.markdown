@@ -8,4 +8,6 @@ I host the [Absolute Value](https://anchor.fm/daniel-ling) podcast, where my gue
 
 Thanks for listening and [leave a message](https://anchor.fm/daniel-ling/message) (your message can be included in future episodes)!
 
+[RSS feed link](http://www.danielyling.com/feed.xml)
+
 <link href='http://www.danielyling.com/feed.xml' rel='alternate' type='application/atom+xml'>
