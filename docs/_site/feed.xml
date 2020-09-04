@@ -1,330 +1,131 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title></title>
-    <description>
-Welcome to my website! Thanks for visiting.</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    
-      <item>
-        <title>Daniel's Digest</title>
-        <description>&lt;p&gt;&lt;em&gt;Every Sunday, I write a quick newsletter to share some thoughts, topics I’ve learned, and a few of my favorite things from the week. Enjoy!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Hey friends,&lt;/p&gt;
-
-&lt;p&gt;Hope everyone had a great week. I’m typing this from some new tech, and it’s invigorating when we leverage tech that can enable us to be even more productive. We do have to be careful about our spending choices to focus on things that add substantial value to our lives. I also think it’s important to add some rigidity to this thought process to make sure these choices (and rationale for these choices don’t get out of hand). My mental model for this is something I’m calling “spending X in T0, to achieve (X + N) in (T + 1).” Spending can enable us to produce even further. We should think long-term about short-term costs, as taking on this “leverage” can propel us even further and achieve even more than if we hadn’t made that purchase, hopefully achieving a higher “MOIC” to use investing terminology. I’ve found this to be a useful framework to govern spending choices.&lt;/p&gt;
-
-&lt;p&gt;In my spare time, I’ve also been diving into more music theory and how it can inform music composition. Melodic interpolation has always fascinated me, and I think I’m starting to get better at it. Interestingly, I’ve find that playing music while showering happens to be an opportune time to work on melodic interpolation. The hum of the shower tends to dampen the higher ranges of the music, while providing enough percussion and bass to interpolate melodically on top of it.&lt;/p&gt;
-
-&lt;p&gt;Separately, hope everyone is getting into Morning Pages. It’s both enjoyable and meditative! See below for some of my favorites from this week.&lt;/p&gt;
-
-&lt;p&gt;Have a great week!&lt;br /&gt;
-Daniel&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;things-that-resonated-with-me-this-week&quot;&gt;Things that resonated with me this week&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Eric Schmidt had a &lt;a href=&quot;https://www.youtube.com/watch?v=726B0y1D5ZM&quot;&gt;great Q&amp;amp;A&lt;/a&gt; with the Bendheim Center, discussing topics in cybersecurity, privacy, and innovation.&lt;/li&gt;
-  &lt;li&gt;Came across &lt;a href=&quot;http://www.paulgraham.com/todo.html?utm_campaign=Sunday%20Snippets&amp;amp;utm_medium=email&amp;amp;utm_source=Revue%20newsletter&quot;&gt;this piece&lt;/a&gt; by Paul Graham and wanted to share it. It talks about some of the most important things we should be thinking about, both in our daily lives and in the long-term, especially when it comes to how we make decisions. He cites another book which discusses how our biggest regrets tend to be regrets by omission, rather than commission. Jeff Bezos also talks about this in &lt;a href=&quot;https://www.youtube.com/watch?v=f3NBQcAqyu4&quot;&gt;this interview&lt;/a&gt;, which he terms as a regret minimization framework. He also mentions it &lt;a href=&quot;https://www.youtube.com/watch?v=jwG_qR6XmDQ&quot;&gt;here&lt;/a&gt;, years before Amazon became how we know it to be today. [I’ll talk about this more in a dedicated post on this regret minimization framework and how our best decisions can come from this]. With this in mind, we should be aware that we’re far less likely to regret things we’ve done, versus not done. We’re much more likely to regret things we didn’t didn’t try, paths untraveled. Those tend to be the most piercing regrets, not regrets of things we did try but ended up not working out as planned. [On a separate note, one of my creative idols is Lauv. He has talked before about striving towards creating from “the source” when it comes to music composition and songwriting. He doesn’t waste time overthinking. He just does. And I think that approach fits well with Graham/Bezos’ framework for regret minimization.&lt;/li&gt;
-  &lt;li&gt;Enjoyed &lt;a href=&quot;https://www.youtube.com/watch?v=9_7iWIOWbC4&quot;&gt;this overview&lt;/a&gt; of Guardiola’s best team talks. His desire and leadership comes through in every game, and that day-in day-out dedication is part of the reason why he’s so respected in the dressing room. Again, goes back to an interview I referenced last week from Ryan Tedder - you have to love the grind.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;things-im-trying-out&quot;&gt;Things I’m trying out&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It’s not really something I’m trying out and more so something I’ve always done and have fully adopted into my daily routine - morning pages. There are many ways of doing Morning Pages but the standard definition is “three pages of longhand, stream of consciousness writing, done first thing in the morning.” The three pages can be about anything and everything. The important thing is just that you write. Three pages worth of anything. For me this usually encompasses ideas I have when I wake up or general to-dos for my day or week that happen to pop up that morning.  I mainly use Notion (an app I absolutely love and will discuss in a post later on) for this since I do all of my journaling-type writing there. But I’ve found morning pages to be an immensely useful exercise and would highly recommend it. If you’re like me, you have at least a few ideas first thing in the morning, so it’s nice to have a consistent place to put these thoughts down and make it a consistent routine.&lt;/li&gt;
-  &lt;li&gt;While we’re on the topic of mornings, I’d love to share my morning routine. I’ve come to realize that having a strong morning routine is super important, and I’ve found one that really works for me. Having a consistent morning routine (each made up of healthy steps of course) is huge, and by repeating it every day you don’t have to actively think about those steps, they’re simply non-negotiable. So, you can then focus your energy on the actions and decisions that actually propel you, in the pursuit of, well, whatever you’re pursuing. Having consistency around this helps you focus on these other things. Mental energy is finite, and so it’s best to allocate it appropriately, and conserve/maximize it as much as you can.
-    &lt;ul&gt;
-      &lt;li&gt;For me, my morning routine is:
-        &lt;ul&gt;
-          &lt;li&gt;10 min meditation first thing after I wake up&lt;/li&gt;
-          &lt;li&gt;morning pages (usually around three pages, but at the very least filling out my template in Notion, which I’ll share at a future date)&lt;/li&gt;
-          &lt;li&gt;20 min walk outside&lt;/li&gt;
-          &lt;li&gt;brushing teeth, showering&lt;/li&gt;
-          &lt;li&gt;breakfast and coffee immediately&lt;/li&gt;
-          &lt;li&gt;filling out my daily planning entry in Notion (I’ll share my template for this as well)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;stuff-thats-on-my-mind&quot;&gt;Stuff that’s on my mind&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How much health can impact every other aspect of your life. It’s imperative to take care of that. Everything follows from health.&lt;/li&gt;
-  &lt;li&gt;If you like writing, just start. Whether it’s writing or any creative outlet, it’s important to just start, and furthermore to first focus on whatever you’re interested in. Don’t worry about payoff or how any utility can come from it etc., just start with whatever you’re interested in, and the rest follows from there.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;quote-of-the-week&quot;&gt;Quote of the week&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Life is like being a sprinter; long stretches of hard work punctuated by brief moments in which we are given the opportunity to perform at our best.” - Michael Johnson&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Sun, 30 Aug 2020 00:00:00 -0400</pubDate>
-        <link>//2020/08/30/daniels-digest</link>
-        <guid isPermaLink="true">//2020/08/30/daniels-digest</guid>
-      </item>
-    
-      <item>
-        <title>A Mental Model for Life Satisfaction</title>
-        <description>&lt;h3 id=&quot;my-traveling--with-a-purpose-framework-a-mental-model-for-life-satisfaction&quot;&gt;&lt;em&gt;My [Traveling + With a Purpose] Framework: A Mental Model for Life Satisfaction&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;It all started with a recent blog post I read from a friend of mine who left his largely sedentary job tied to a cubicle, to travel the world and take on an all-remote job, and his reactions to it. He said that, while it was nice to travel around and see new places and meet new people, he began to feel that life was transitory. Yes, it was great to see the world. But, in seeing the expansive world that we live in, his nomadic life began to lead to feelings of meaninglessness, especially when it was not directly anchored to work (which allows for a tangible &amp;amp; daily sense of purpose) on a regular basis.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, many of us know the feeling of working in environments that are largely restricted to one place, in general or at least for the large part of the week. And alongside that, a growing desire to travel and see the world. I’d reckon that the majority of the world’s jobs are of this nature, although this is quickly changing as companies look to incorporate adaptability (especially in preparation for times like these).&lt;/p&gt;
-
-&lt;p&gt;Clearly, it’s important to have a balance here. It appears to be a situation where the phrase “too much of a good thing” applies.&lt;/p&gt;
-
-&lt;p&gt;And so, I’ve been thinking about this a lot and developing a mental model for how to maximize life satisfaction, in relation to how much we incorporate traveling into our work, or analogously, how we can choose a profession that allows us to experience the optimal allocation of this in order to maximize life satisfaction.&lt;/p&gt;
-
-&lt;p&gt;I’m terming it as a “traveling + with a purpose” framework.  The ideal career situation (along the gradient of life satisfaction) would be one where we travel often (albeit not constantly), but with each travel’s purpose being tied to the buildout of our career. This is because (1) traveling without any purpose can lead to feelings that life is fleeting and meaningless, in a world so large and expansive, and (2) working without any travel can be claustrophobic and uninspiring. A career that combines traveling with purpose could be one that requires meeting with constituents in other locations, working in multi-faceted organizations, or unique roles within corporations with large geographic footprints. The possibilities are truly limitless, and this framework’s ideal mix can certainly be found in a multitude of ways.&lt;/p&gt;
-
-&lt;p&gt;I first experienced the “traveling + with a purpose” framework, albeit unintentionally and without any deliberation behind this, when I was participating in science competitions like the Intel ISEF, Intel STS, JSHS, and Siemens Competition, and I got to travel around the country (and sometimes internationally). And it was immensely invigorating, to be both competing in these events that were tied to my career, and traveling the world. I got to see new places and meet new people, and it was all in tandem with building out my career. I think this is the ideal mix, and moreover, I feel enormously grateful to have had roles in my career so far that have incorporated this mix.&lt;/p&gt;
-
-&lt;p&gt;In the model where travel and work are two levers for life satisfaction, it appears that the ideal allocation would be a mix of the two in order to maximize the dependent variable (in this case “life satisfaction”).&lt;/p&gt;
-
-&lt;p&gt;I hope this is helpful, interesting, or at the very least, that it stirs the pot of debate over what does/does not promote happiness in our lives - in hopes that we can all figure out our own ways of maximizing it. Thanks for reading out there.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 29 Aug 2020 00:00:00 -0400</pubDate>
-        <link>//2020/08/29/a-mental-model-for-life-satisfaction</link>
-        <guid isPermaLink="true">//2020/08/29/a-mental-model-for-life-satisfaction</guid>
-      </item>
-    
-      <item>
-        <title>Notion</title>
-        <description>&lt;p&gt;I was going to include this in the next newsletter, but wanted to have a dedicated post on Notion, given how useful I’ve found it to be. I first discovered Notion after seeing that it had a use case as a browser extension for saving links for later reference. The company then received much more widespread recognition following their last fundraise on a $2B valuation.&lt;/p&gt;
-
-&lt;p&gt;In short, I use Notion for pretty much everything, from daily planning, to weekly planning, to journaling, morning pages, and even as a master task database with Notion’s amazing database features. Using relational databases in particular has been hugely useful, for example for enabling networked thoughts in my various writing databases.&lt;/p&gt;
-
-&lt;p&gt;Using Notion also aligns with a mental framework that I’ve developed, which is the concept that the brain should just be for generating ideas, not for storing them. It touches on an emerging body of research that points to the value of personal knowledge management. With personal knowledge management, you’re effectively building a “second brain” to retain all the information that you’re consuming and any piece of content that you happen to resonate with. This is useful if you’d like to reference it later on for example. More on this later, but how often have you read an article or consumed a piece of content that really resonated with you, and wished that you could somehow keep it along with your accompanying thoughts? Notion is perfect for this. If I read an article that I really like, I’ll immediately share it into Notion, write some thoughts I have about it, and save it down.&lt;/p&gt;
-
-&lt;p&gt;Moreover, with this framework in mind, your brain is free to just “generate”, not store. It’s quite liberating. I also love the community of Notion users who all appear to have a proclivity for personal development. Check out their template gallery for everything from habit trackers to journal templates, to workout planners. A lovely bunch indeed. Cheerio!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Aug 2020 00:00:00 -0400</pubDate>
-        <link>//2020/08/26/notion</link>
-        <guid isPermaLink="true">//2020/08/26/notion</guid>
-      </item>
-    
-      <item>
-        <title>Messi Leaving Barcelona</title>
-        <description>&lt;p&gt;I’ve always idolized Messi ever since he made his World Cup debut in 2006 against Serbia &amp;amp; Montenegro. I remember the hype around him during this debut, and was skeptical. Now, amidst talks in the sporting world about the biggest prospective transfer of all time, I’d like to use this as a moment to reflect on the qualities of Messi that have led to his success. These are characteristics of Messi that I’ve come to appreciate and strive to learn from, which I extrapolate as life lessons and applicable to every career:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Keeping your head down, rolling up the sleeves, and just doing the work. He doesn’t listen to the noise (and when you’re the best player in the world, it tends to be a lot). This also ties to a lesson that Michelle Obama mentions in &lt;a href=&quot;https://podcasts.apple.com/us/podcast/michelle-obama/id1438054347?i=1000432142475&quot;&gt;this podcast episode&lt;/a&gt; with Conan O’Brien. You see this from Messi in every game, regardless of the importance of the fixture, from friendlies to World Cup finals.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Never getting into an argument with the referee or other players for fouls. Or rarely, and when he does it’s for good reason. When he does make an argument, he’s always in the right to be doing so, e.g. if it’s a particularly egregious foul, which he’s dealt with many times. This unwavering authenticity is something I resonate with.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;You don’t have to be the biggest, strongest, or fastest (or whatever physical or non-physical attribute), to be the best. This can be extrapolated to any innate or inherited circumstance of life. It’s important not to be discouraged by certain attributes, because if you maximize it, in the context of any type of constraint, you never know what’s possible. What appears to be a “limiting reactant,” to use stoichiometry lingo, may very well not be. Blessings in disguise. For Messi, that meant, while not being the most physically dominant, learning to play with his feet and focusing on agility rather than raw pace. And luckily in soccer, things like developing a low center of gravity, positional awareness, and tactical intelligence, can be just as if not more important than physicality.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In line with the above, I pull two life lessons from this: (1) maximize what you have, don’t long for what you don’t have, (2) control what you can control, not what you can’t&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Passion and focus. This is particularly on display with the focus he has leading up to a goal (&lt;a href=&quot;https://www.youtube.com/watch?v=yF-Z00RVM2Q&amp;amp;t=316s&quot;&gt;at 14:50 in this example&lt;/a&gt;), and the passion he shows when he scores. He’s fully absorbed and immersed in the game. Not thinking about the noise, the media, or anything else. He’s entirely focused on his craft.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Giving your all and 100% focus in everything, each time he goes for the ball, which I see in both Messi and Frenkie De Jong. This is one of the reasons why they stay on the field and don’t get subbed. They approach everything with a certain seriousness and dedication.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Loving the work, enjoying the grind. Each time Messi is at training, he’s clearly enjoying himself. You want to love being at your workplace, or wherever your focus is, versus loving vacation or working for the time off. You want to love the five days of the work week, not just the weekends. If you’re not, then you’re probably not in the right career. With Messi, or Christian Pulisic for example, it’s clear that they’re excited to be back at the Camp Nou, or Stamford Bridge, after time off. They’re excited to be back at the place of focus, not excited for the time away. It’s important to love the job and the workplace. It goes back to &lt;a href=&quot;https://www.youtube.com/watch?v=p1TBxzgUCN8&quot;&gt;this interview&lt;/a&gt; from Ryan Tedder, a particularly prolific songwriter. You have to love the grind.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mentality. Messi is clearly 100% focused before the game. The importance of mentality I believe is one of the many lessons in soccer that I see to be applicable to every other aspect of life. If you don’t have the confidence and belief that you’re going to get by a defender, then you most likely won’t be able to do it. But if you have a mindset of confidence and an underlying desire, then I’d bet that you will. It also goes back to Antoine de Saint-Exupéry’s quote in &lt;a href=&quot;/2020/08/23/daniels-digest&quot;&gt;last week’s newsletter&lt;/a&gt;. Having a mental fortitude and sturdiness in your resolve, is so important. Equally as important is being in the right headspace and mindset.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Separately, I love Thomas Tuchel’s honesty and candor in &lt;a href=&quot;https://www.youtube.com/watch?v=8-NiPNmr9-c&quot;&gt;this interview&lt;/a&gt;. Messi is a topic, but this whole interview is something to appreciate, in terms of Tuchel’s straightforwardness and the genuine way in which he discussed the loss to Bayern in his post-match interview.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Side note: Amidst all the Man City rumors, seeing Messi at Juventus alongside Ronaldo would be a spectacle to watch. My hunch though is Inter Milan or Man City.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 25 Aug 2020 00:00:00 -0400</pubDate>
-        <link>//2020/08/25/messi-leaving-barcelona</link>
-        <guid isPermaLink="true">//2020/08/25/messi-leaving-barcelona</guid>
-      </item>
-    
-      <item>
-        <title>Daniel's Digest</title>
-        <description>&lt;p&gt;&lt;em&gt;This is my weekly newsletter where I write about health, productivity, and mindset. I’ll be sharing it here every Sunday.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Hey friends,&lt;/p&gt;
-
-&lt;p&gt;I went on a morning walk yesterday as the sun was going up, and it was glorious. It was my first morning walk in a while.&lt;/p&gt;
-
-&lt;p&gt;It was quiet and serene. A multitude of birds were out and about in my neighborhood. I could still hear the quiet but ever present hum of the remaining nighttime grasshoppers chirping. And of course, the steady patter of my footsteps underneath.&lt;/p&gt;
-
-&lt;p&gt;I’ve never been so grateful to be in a serene environment. I’ve worked in two of the major U.S. urban centers since graduating from college, and have enjoyed every minute of it. But I feel we can often take for granted the serene moments and tranquil settings that we may find ourselves in. We often yearn for commotion, volatility. But it’s important to cherish our serene surroundings when we do have it. While many of us are working remotely during this time of COVID-19, may we seek out the moments of solitude and calmness when we can. It’s good to disconnect for a bit.&lt;/p&gt;
-
-&lt;p&gt;Have a great week!&lt;br /&gt;
-Daniel&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;things-that-resonated-with-me-this-week&quot;&gt;Things that resonated with me this week&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;I was moved by Lauv’s performance &lt;a href=&quot;https://www.youtube.com/watch?v=FjKruLdyXq0&amp;amp;list=RDVQdglo6mBcU&amp;amp;index=22&quot;&gt;here&lt;/a&gt;. He’s absorbed in his performance, as if he’s alone in the auditorium and it’s just him and the piano. For some reason, it’s always inspiring to see someone fully immersed in his or her craft.&lt;/li&gt;
-  &lt;li&gt;Tyler Adam’s &lt;a href=&quot;https://www.youtube.com/watch?v=zk4wycbtfOw&quot;&gt;collectedness&lt;/a&gt; at his post-match interview, after having scored a game-winning goal to send his team to the Champions League semifinal, was inspiring (perhaps more than so than the goal itself). His maturity at such a young age is something I try to strive for myself, even though I’m a few years older. We are never too young to display maturity and composure, even when things can get a little crazy.&lt;/li&gt;
-  &lt;li&gt;I recently read the &lt;a href=&quot;http://www.raindance.co.uk/site/scripts/Inception.pdf&quot;&gt;script&lt;/a&gt; for Inception without any audio or visuals, and it was inspiring to see how much of the initial writing dictated the filming and eventual final reel. Some of the written scenes described the final rendered output to the tee. Some did not, but it was remarkable to see how some scenes went straight from Christopher Nolan envisioning, to making it on the final screen. I think this is one of the obvious benefits of “vertically integrating” the directing and screenwriting process.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;things-im-trying-out&quot;&gt;Things I’m trying out&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Checking email once per day. I think setting a consistent time stabilizes the mind, and having no structure around this can quickly get out of hand. It also teaches you to be succinct and efficient with your writing to maximize your productivity when you are in your inbox.&lt;/li&gt;
-  &lt;li&gt;I recently realized that the word breakfast may have come from the notion of “breaking the fast”, after essentially fasting overnight. The metabolism halts during this period, and, with the first meal of the day, we’re breaking this fast and jumpstarting our energy production processes. With this in mind, I’m aiming to eat breakfast within an hour of waking up.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;stuff-thats-on-my-mind&quot;&gt;Stuff that’s on my mind&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It’s important to disengage and write sometimes. And to write from a place of intentionality. We can get lost in the natural entropy of life, and it’s essential to sit back and write sometimes. With your own thoughts undisturbed. Not only is it cathartic, but it’s also a process of self-discovery; you discover new things and new ideas along the way, just from the process of putting pen to paper. I’m making this a habit of at least once a week of long-form writing, and journaling each day.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;quote-of-the-week&quot;&gt;Quote of the week&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.” - Antoine de Saint-Exupéry&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Sun, 23 Aug 2020 00:00:00 -0400</pubDate>
-        <link>//2020/08/23/daniels-digest</link>
-        <guid isPermaLink="true">//2020/08/23/daniels-digest</guid>
-      </item>
-    
-      <item>
-        <title>Network Effects in AI</title>
-        <description>&lt;p&gt;&lt;strong&gt;Market Landscape and Context&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In present day market environments, network effects drive about 70% of value for technology companies and technology-enabled services. Emerging trends in AI point to many potential areas where network effects can amplify product utility and customer adoption, and in turn drive a large portion of market value for technology companies. It can be hugely valuable in early product development to architect a product to allow users to participate in value creation, and effectively let the use of the product add value to the other users. Every incremental customer can effectively add value to each existing customer, as well as each future customer.&lt;/p&gt;
-
-&lt;p&gt;The traditional model of network effects contends that the network of customers utilizing a product provides the majority of the value of the project, versus the product itself. Prime examples are in the social media space, with industry titans like Facebook and Instagram, where their existing networks of users deliver the most value for each incremental user that signs up. Companies like Craigslist and Ebay illustrate network effects in its purest form, as they rely entirely on their network of users to deliver their value proposition, as evidenced by the success of their marketplaces in congruence with their bare interfaces (all of their value is derived from the network of users interacting on their tech-enabled marketplace platforms, not in branding, marketing, or any other product dimension).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New Types of Network Effects in AI&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Furthermore, a recent survey from Gartner shows that 37% of organizations worldwide have adopted some form of AI, which is a growth rate of 270% within the past four years. It appears that, with the emergence of data sharing within networks and novel AI applications, new types of network effects may come about and bring value to AI startups specifically. For example, new types of network effects come about with new network participants that interact with &amp;amp; benefit from a startup’s AI, which brings about new categorizations for the network effect itself.&lt;/p&gt;
-
-&lt;p&gt;Take for example an AI startup that creates a robotic arm to replace restaurant workers at fast-casual restaurants. The restaurant “enterprises” themselves form a network of direct customers of the AI startup, adopting the robotic arm technology for operational enhancements. Simultaneously, the customers in the restaurant (the restaurants themselves serving as the first layer) are also part of the network, and also benefit from the cleanliness and improved preparation of the food (assuming the startup’s product works and their value-prop is substantiated) among other positive externalities (e.g. improved health outcomes). This secondary layer (with delivery platforms, other restaurant components, serving as tertiary layers) essentially benefits from the positive externalities of the AI’s introduction into the business.&lt;/p&gt;
-
-&lt;p&gt;The interaction of these layers appears to introduce a new type of network effect particular to AI startups (and tied to the business impacts of automation), which could be described as vertical network effects (similar in concept to the “vertical integration” of a business’s operations), across the chain of consumption.&lt;/p&gt;
-
-&lt;p&gt;An example that demonstrates the vertical nature of AI network effects is a startup that provides robotic farming automation for picking fruits and vegetables. A business that vertically integrates is aiming to operationally control the production of vegetables from farm, to wholesale distribution, to retail, to customer. Network effects play a role in a similar vertical fashion here, where the farm’s harvesting operations are automated and enhanced, downstream distributors benefit from greater quantities and higher quality produce with peak ripeness and lower wholesale purchase costs, and further upstream, fertilizer companies are benefitting from the operational expansion of the farm’s capabilities, which require larger purchases of fertilizer. The network of buyers of the produce at the end of the consumption chain also benefit from the improved produce quality and enhanced ripeness. Thus, across vertical network participants, network effects arise from a stimulus of transactions, consumption, and economic activity.&lt;/p&gt;
-
-&lt;p&gt;To complete this particular lens of viewing network effects, the conventional model of network effects would indicate more of a horizontal network effect, among the “same type” of network participants, i.e. within the category of fertilizer types (in farming AI), delivery types (in restaurant AI), and individual users (in social media).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;New Categories of Network Effects in AI&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;With emerging AI technologies that are creating entirely new markets and redefining existing methodologies, there appear to also be new categories of network effects that come with it. One distinct category that has emerged is adaptive learning in AI, with startups building technologies that adaptively learn with new data in searching for an optimum, whether that be an optimal decision or optimal product. This could be a farming automation startup that is building an AI to detect peak ripeness, for example. Another category appears to be network effects that purely arise from existing networks of customers or users. The social media platforms described above, e.g. Facebook, Twitter, Snapchat, would fit this model. It’ll be interesting to see how new categories of network effects are defined with each new AI that goes-to-market.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Implications for Business Operations &amp;amp; Go-To-Market Strategies&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Recognition of the immense positive impacts and value of network effects in AI should impact how a business operates, goes-to-market, and scales. With network effects in mind, business strategy should be developed with the direct consumers of the product in mind, as well as the indirect beneficiaries of the product, which can occur downstream or upstream (e.g. in the farming automation example), which in turn create positive feedback loops that reinforce business operations and sales channels at each stage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Network Effects in Data Generation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Network effects in general add value to a business with each new node or user that is added. A data network effect specifically occurs when newly added data continuously improves a product or service. As the usage of the product grows, the data contributed by each user grows, and the product improves with the aggregated data. Data network effects provide an inherent advantage to a vast array of companies, especially those that are AI/ML based, by allowing them to leverage their customer data more effectively. Data network effects can be derived from the data generated from large, anonymous groups of people that engage with the company’s products. Recommendation systems, for example, benefit from the network effects stemming from the large and continuously growing supply of data that is generated from the user base. The deeper the data set, the better the recommendations that can be made.&lt;/p&gt;
-
-&lt;p&gt;To provide further granularity, data generation also provides positive network effects for each “participant category.” One participant category is the set of users of the product, which largely generate the data in question. Another auxiliary category is the set of secondary beneficiaries or those positively affected by the product. The larger dataset improves the product, which in turn results in an enhanced product experience for the initial set of users. This positive feedback loop creates a data network effect via data generation or aggregation.&lt;/p&gt;
-
-&lt;p&gt;Data network effects can be described as a flywheel feedback loop, with customers generating data that in turn informs prediction models &amp;amp; algos, which in turn brings in more customers. Data continues to aggregate and the process amplifies. Moreover, businesses can unlock immense competitive advantages by utilizing AI/ML, given the potential for competitive moats with data network effects. Data network effects can build defensibility and add value through increased user retention and alignment to user preferences through prediction models and algorithms.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Network Effects in Synthetic Data&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Data network effects can also play a role in synthetic data generation. Synthetic data products adaptively learn as more data is generated, and the convenience of availability is a huge value proposition. Apple, Google, and Microsoft have all published research that illustrates how synthetic data is highly convenient for machine learning and training models.&lt;/p&gt;
-
-&lt;p&gt;Moreover, Synthetic data appears to help startups compete with large-cap corporations that tend to have swsthes of data readily available. The ability to generate synthetic data creates a level playing field for startups to compete with data-rich giants.&lt;/p&gt;
-
-&lt;p&gt;The adoption of synthetic data in AI practice is growing, and alongside that trend is a massive market opportunity for synthetic data platforms that can generate convenient and readily available data. Google researchers are now training AI in simulated worlds for example.&lt;/p&gt;
-
-&lt;p&gt;(Addendum)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Other Use Cases&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Data network effects can also play a role for platforms that are building autonomous vehicles. Tesla for example could benefit from strong data network effects, as its fleet of cars gathers data that drives continuous improvement of Tesla’s AI/ML, which could then be applied to navigation, automation, and other decision making processes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Roadmap for Leveraging Data Network Effects &amp;amp; Potential Limitations&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;AI/ML products tend to inherently exhibit data network effects, but not all companies are able to leverage these effects to their advantage. Complexity of data poses one limitation, leading to the growing importance of data management and data scientists. Further downstream, the potential for competitive advantage also is dependent on the specific use case. While recommender systems are a popular use case where AI/ML has provided companies with data network effects that give rise to competitive advantages, the same positive effects are hard to unlock in facial recognition, home devices, and certain subareas of robotics.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 19 Aug 2020 00:00:00 -0400</pubDate>
-        <link>//2020/08/19/network-effects-in-ai</link>
-        <guid isPermaLink="true">//2020/08/19/network-effects-in-ai</guid>
-      </item>
-    
-      <item>
-        <title>Hello!</title>
-        <description>&lt;p&gt;Hello, World! I’m excited to have built this site with Jekyll. Thanks for visiting.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Aug 2020 00:00:00 -0400</pubDate>
-        <link>//2020/08/10/hello</link>
-        <guid isPermaLink="true">//2020/08/10/hello</guid>
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 03 Aug 2020 20:14:10 -0400</pubDate>
-        <link>//2020/08/03/welcome-to-jekyll</link>
-        <guid isPermaLink="true">//2020/08/03/welcome-to-jekyll</guid>
-      </item>
-    
-      <item>
-        <title>Wilson</title>
-        <description>&lt;p&gt;There were many fascinating aspects of Wilson’s career and approach that I discovered while reading this book, but one thing stood out that I wanted to discuss briefly. His devotion to his faith.&lt;/p&gt;
-
-&lt;p&gt;This book shed light on aspects of Wilson’s life that aren’t readily apparent, and one area of his life that resonated with me was his unwavering commitment to Christianity (it should be noted that I did not grow up in a Christian household).&lt;/p&gt;
-
-&lt;p&gt;Wilson did not actively preach his faith to others, but he ardently practiced it internally. He did not wish to evangelize or sermonize outwardly, especially towards others who may have held different beliefs, but he practiced it himself and let it guide his decisions. He infused every one of his decisions with a moral compass that he devoted himself to.&lt;/p&gt;
-
-&lt;p&gt;[This goes back to a concept that I’ll discuss later on, and that I’ve seen in a lot of successful people - the notion that being devoted and dedicated to something, in and of itself, can lead to greater benefits in our lives. But more on that later].&lt;/p&gt;
-
-&lt;p&gt;This commitment also permeated his political decision-making:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;He placed principles before politics&lt;/li&gt;
-  &lt;li&gt;He followed his conscience, never first checking public opinion&lt;/li&gt;
-  &lt;li&gt;He spoke only for himself&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And even so, he found much of the nation agreeing with what he had to say anyways. Even though he never first reviewed the opinions of the American public to guide his decision-making, his decisions, based on his conscience before anyone else, ended up agreeing with them anyways.&lt;/p&gt;
-
-&lt;p&gt;And it was evident. The public resonated with a person so visibly dedicated to underlying principles rather than frothy political motives. It came through in every public speech he gave. Although he was the least experienced person to hold the highest political office in the country, he was the most accomplished &lt;em&gt;student&lt;/em&gt; of American politics. And he let that guide him.&lt;/p&gt;
-
-&lt;p&gt;In 1912, he entered into one of the most thrilling races in the history of the United States, defeating two worthy candidates in the Republican incumbent William Taft, and the progressive Theodore Roosevelt from the Bull Moose Party (a unique event in the country’s traditional two-party duopolistic system). The rest is history.&lt;/p&gt;
-
-&lt;p&gt;Reading about Wilson encouraged me to re-examine how things are done now in modern politics, with a hope that principle over pretense can win in the end.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Nov 2019 00:00:00 -0400</pubDate>
-        <link>//2019/11/02/wilson</link>
-        <guid isPermaLink="true">//2019/11/02/wilson</guid>
-      </item>
-    
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Absolute Value]]></title>
+		<description><![CDATA[A podcast about applied math, investing, and the underlying principles that help us live happy, healthy, and productive lives. Hosted by Daniel Ling.]]></description>
+		<link>www.danielyling.com/podcast</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/8599673/8599673-1598834821995-736cbc8b95417.jpg</url>
+			<title>Absolute Value</title>
+			<link>www.danielyling.com/podcast</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Fri, 04 Sep 2020 02:34:11 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/33daa5c4/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Daniel Ling]]></author>
+		<copyright><![CDATA[Daniel Ling]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Daniel Ling</itunes:author>
+		<itunes:summary>A podcast about applied math, investing, and the underlying principles that help us live happy, healthy, and productive lives. Hosted by Daniel Ling.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Daniel Ling</itunes:name>
+			<itunes:email>podcasts60+33daa5c4@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Science"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/8599673/8599673-1598834821995-736cbc8b95417.jpg"/>
+		<item>
+			<title><![CDATA[Russell Bogue - Decision-making, Data Privacy, and Positivity Inertia]]></title>
+			<description><![CDATA[Today, I'm very excited to welcome Russell Bogue, an old friend of mine, who's currently a JD candidate at Yale Law School. Russell is one of the most mature and thoughtful individuals I know. And it was awesome to catch up on with him while discussing everything from trends in data privacy, to the key principles that we believe should guide decision-making and productivity. We hope you enjoy, and thanks for listening.
+
+---
+
+This episode is sponsored by
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/33daa5c4/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+---
+
+Send in a voice message: https://anchor.fm/daniel-ling/message]]></description>
+			<link>https://anchor.fm/daniel-ling/episodes/Russell-Bogue---Decision-making--Data-Privacy--and-Positivity-Inertia-ej0m6o</link>
+			<guid isPermaLink="false">225b236a-f6ff-4669-b3e0-0a135cd35ae1</guid>
+			<dc:creator><![CDATA[Daniel Ling]]></dc:creator>
+			<pubDate>Thu, 03 Sep 2020 08:01:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/33daa5c4/podcast/play/18945688/sponsor/a33q6jb/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-09-03%2F244bed75d00a76ef138b43caca6dbf64.m4a" length="37509916" type="audio/x-m4a"/>
+			<itunes:summary>Today, I&apos;m very excited to welcome Russell Bogue, an old friend of mine, who&apos;s currently a JD candidate at Yale Law School. Russell is one of the most mature and thoughtful individuals I know. And it was awesome to catch up on with him while discussing everything from trends in data privacy, to the key principles that we believe should guide decision-making and productivity. We hope you enjoy, and thanks for listening.
+
+---
+
+This episode is sponsored by
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/33daa5c4/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+---
+
+Send in a voice message: https://anchor.fm/daniel-ling/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2318</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/8599673/8599673-1598834821995-736cbc8b95417.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Absolute Value Podcast (Trailer)]]></title>
+			<description><![CDATA[Hey everyone, I'm Daniel Ling, and welcome to Absolute Value, the podcast about the frontier of technology, the trends that are shaping our world, and the essential principles that help us live happier, healthier, and more productive lives.
+
+---
+
+This episode is sponsored by
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/33daa5c4/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+---
+
+Send in a voice message: https://anchor.fm/daniel-ling/message]]></description>
+			<link>https://anchor.fm/daniel-ling/episodes/The-Absolute-Value-Podcast-Trailer-ej0p19</link>
+			<guid isPermaLink="false">22b6a7e2-1f8c-4bf9-b2a6-852257ff657a</guid>
+			<dc:creator><![CDATA[Daniel Ling]]></dc:creator>
+			<pubDate>Wed, 02 Sep 2020 08:57:29 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/33daa5c4/podcast/play/18948585/sponsor/a33q6jb/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-09-02%2Fafec5da586fdfad534888fa7ab3d0873.m4a" length="2544187" type="audio/x-m4a"/>
+			<itunes:summary>Hey everyone, I&apos;m Daniel Ling, and welcome to Absolute Value, the podcast about the frontier of technology, the trends that are shaping our world, and the essential principles that help us live happier, healthier, and more productive lives.
+
+---
+
+This episode is sponsored by
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/33daa5c4/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+---
+
+Send in a voice message: https://anchor.fm/daniel-ling/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>157</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/8599673/8599673-1598834821995-736cbc8b95417.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Cary Fitch - Pandemic Life in South Korea (Bonus Episode)]]></title>
+			<description><![CDATA[Today we’re welcoming Cary Fitch, a teacher based in South Korea and a childhood friend of mine. We talk about the different approaches that our current countries of residence have used to combat the COVID-19 pandemic and also dive deeper into the title of the podcast. Thanks for listening!
+
+---
+
+This episode is sponsored by
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/33daa5c4/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+---
+
+Send in a voice message: https://anchor.fm/daniel-ling/message]]></description>
+			<link>https://anchor.fm/daniel-ling/episodes/Cary-Fitch---Pandemic-Life-in-South-Korea-Bonus-Episode-eis3o5</link>
+			<guid isPermaLink="false">87e31bcd-d3ed-4b40-86d6-31955c8ba2cd</guid>
+			<dc:creator><![CDATA[Daniel Ling]]></dc:creator>
+			<pubDate>Wed, 02 Sep 2020 05:16:31 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/33daa5c4/podcast/play/18795717/sponsor/a33q6jb/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-09-03%2Ff0038f0b75806e1748364d790e4436a9.m4a" length="20206219" type="audio/x-m4a"/>
+			<itunes:summary>Today we’re welcoming Cary Fitch, a teacher based in South Korea and a childhood friend of mine. We talk about the different approaches that our current countries of residence have used to combat the COVID-19 pandemic and also dive deeper into the title of the podcast. Thanks for listening!
+
+---
+
+This episode is sponsored by
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/33daa5c4/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+---
+
+Send in a voice message: https://anchor.fm/daniel-ling/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1249</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/8599673/8599673-1598834821995-736cbc8b95417.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+	</channel>
 </rss>

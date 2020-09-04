@@ -2,21 +2,134 @@
 layout: none
 ---
 
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ site.url }}/{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
-      </item>
-    {% endfor %}
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Absolute Value]]></title>
+		<description><![CDATA[A podcast about applied math, investing, and the underlying principles that help us live happy, healthy, and productive lives. Hosted by Daniel Ling.]]></description>
+		<link>www.danielyling.com/podcast</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/8599673/8599673-1598834821995-736cbc8b95417.jpg</url>
+			<title>Absolute Value</title>
+			<link>www.danielyling.com/podcast</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Fri, 04 Sep 2020 02:34:11 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/33daa5c4/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Daniel Ling]]></author>
+		<copyright><![CDATA[Daniel Ling]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Daniel Ling</itunes:author>
+		<itunes:summary>A podcast about applied math, investing, and the underlying principles that help us live happy, healthy, and productive lives. Hosted by Daniel Ling.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Daniel Ling</itunes:name>
+			<itunes:email>podcasts60+33daa5c4@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Science"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/8599673/8599673-1598834821995-736cbc8b95417.jpg"/>
+		<item>
+			<title><![CDATA[Russell Bogue - Decision-making, Data Privacy, and Positivity Inertia]]></title>
+			<description><![CDATA[Today, I'm very excited to welcome Russell Bogue, an old friend of mine, who's currently a JD candidate at Yale Law School. Russell is one of the most mature and thoughtful individuals I know. And it was awesome to catch up on with him while discussing everything from trends in data privacy, to the key principles that we believe should guide decision-making and productivity. We hope you enjoy, and thanks for listening.
+
+---
+
+This episode is sponsored by
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/33daa5c4/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+---
+
+Send in a voice message: https://anchor.fm/daniel-ling/message]]></description>
+			<link>https://anchor.fm/daniel-ling/episodes/Russell-Bogue---Decision-making--Data-Privacy--and-Positivity-Inertia-ej0m6o</link>
+			<guid isPermaLink="false">225b236a-f6ff-4669-b3e0-0a135cd35ae1</guid>
+			<dc:creator><![CDATA[Daniel Ling]]></dc:creator>
+			<pubDate>Thu, 03 Sep 2020 08:01:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/33daa5c4/podcast/play/18945688/sponsor/a33q6jb/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-09-03%2F244bed75d00a76ef138b43caca6dbf64.m4a" length="37509916" type="audio/x-m4a"/>
+			<itunes:summary>Today, I&apos;m very excited to welcome Russell Bogue, an old friend of mine, who&apos;s currently a JD candidate at Yale Law School. Russell is one of the most mature and thoughtful individuals I know. And it was awesome to catch up on with him while discussing everything from trends in data privacy, to the key principles that we believe should guide decision-making and productivity. We hope you enjoy, and thanks for listening.
+
+---
+
+This episode is sponsored by
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/33daa5c4/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+---
+
+Send in a voice message: https://anchor.fm/daniel-ling/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2318</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/8599673/8599673-1598834821995-736cbc8b95417.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Absolute Value Podcast (Trailer)]]></title>
+			<description><![CDATA[Hey everyone, I'm Daniel Ling, and welcome to Absolute Value, the podcast about the frontier of technology, the trends that are shaping our world, and the essential principles that help us live happier, healthier, and more productive lives.
+
+---
+
+This episode is sponsored by
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/33daa5c4/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+---
+
+Send in a voice message: https://anchor.fm/daniel-ling/message]]></description>
+			<link>https://anchor.fm/daniel-ling/episodes/The-Absolute-Value-Podcast-Trailer-ej0p19</link>
+			<guid isPermaLink="false">22b6a7e2-1f8c-4bf9-b2a6-852257ff657a</guid>
+			<dc:creator><![CDATA[Daniel Ling]]></dc:creator>
+			<pubDate>Wed, 02 Sep 2020 08:57:29 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/33daa5c4/podcast/play/18948585/sponsor/a33q6jb/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-09-02%2Fafec5da586fdfad534888fa7ab3d0873.m4a" length="2544187" type="audio/x-m4a"/>
+			<itunes:summary>Hey everyone, I&apos;m Daniel Ling, and welcome to Absolute Value, the podcast about the frontier of technology, the trends that are shaping our world, and the essential principles that help us live happier, healthier, and more productive lives.
+
+---
+
+This episode is sponsored by
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/33daa5c4/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+---
+
+Send in a voice message: https://anchor.fm/daniel-ling/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>157</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/8599673/8599673-1598834821995-736cbc8b95417.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Cary Fitch - Pandemic Life in South Korea (Bonus Episode)]]></title>
+			<description><![CDATA[Today we’re welcoming Cary Fitch, a teacher based in South Korea and a childhood friend of mine. We talk about the different approaches that our current countries of residence have used to combat the COVID-19 pandemic and also dive deeper into the title of the podcast. Thanks for listening!
+
+---
+
+This episode is sponsored by
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/33daa5c4/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+---
+
+Send in a voice message: https://anchor.fm/daniel-ling/message]]></description>
+			<link>https://anchor.fm/daniel-ling/episodes/Cary-Fitch---Pandemic-Life-in-South-Korea-Bonus-Episode-eis3o5</link>
+			<guid isPermaLink="false">87e31bcd-d3ed-4b40-86d6-31955c8ba2cd</guid>
+			<dc:creator><![CDATA[Daniel Ling]]></dc:creator>
+			<pubDate>Wed, 02 Sep 2020 05:16:31 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/33daa5c4/podcast/play/18795717/sponsor/a33q6jb/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-09-03%2Ff0038f0b75806e1748364d790e4436a9.m4a" length="20206219" type="audio/x-m4a"/>
+			<itunes:summary>Today we’re welcoming Cary Fitch, a teacher based in South Korea and a childhood friend of mine. We talk about the different approaches that our current countries of residence have used to combat the COVID-19 pandemic and also dive deeper into the title of the podcast. Thanks for listening!
+
+---
+
+This episode is sponsored by
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/33daa5c4/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+---
+
+Send in a voice message: https://anchor.fm/daniel-ling/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1249</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/8599673/8599673-1598834821995-736cbc8b95417.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+	</channel>
 </rss>
