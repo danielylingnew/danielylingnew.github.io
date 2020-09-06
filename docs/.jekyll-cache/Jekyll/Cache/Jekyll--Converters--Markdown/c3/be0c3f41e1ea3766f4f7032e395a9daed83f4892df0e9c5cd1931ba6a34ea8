@@ -1,7 +1,9 @@
-I"Â
+I"b
 <p><a name="blog"></a></p>
 <h3>blog</h3>
 <ul class="related-posts">
+
+   <li><a href="/2020/09/06/daniels-digest">Daniel's Digest</a> <small>06 Sep 2020</small></li>
 
    <li><a href="/2020/08/30/daniels-digest">Daniel's Digest</a> <small>30 Aug 2020</small></li>
 
@@ -35,6 +37,8 @@
 <h3>newsletter</h3>
 <ul class="related-posts">
 
+   <li><a href="/2020/09/06/daniels-digest">Daniel's Digest</a> <small>06 Sep 2020</small></li>
+
    <li><a href="/2020/08/30/daniels-digest">Daniel's Digest</a> <small>30 Aug 2020</small></li>
 
    <li><a href="/2020/08/23/daniels-digest">Daniel's Digest</a> <small>23 Aug 2020</small></li>
@@ -44,6 +48,8 @@
 <p><a name="post"></a></p>
 <h3>post</h3>
 <ul class="related-posts">
+
+   <li><a href="/2020/09/06/daniels-digest">Daniel's Digest</a> <small>06 Sep 2020</small></li>
 
    <li><a href="/2020/08/30/daniels-digest">Daniel's Digest</a> <small>30 Aug 2020</small></li>
 
@@ -75,6 +81,10 @@
 
     <h3 class="category-head">blog</h3>
     <a name="blog"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/2020/09/06/daniels-digest">Daniel's Digest</a></h4>
+    </article>
     
     <article class="archive-item">
       <h4><a href="/2020/08/30/daniels-digest">Daniel's Digest</a></h4>
@@ -121,6 +131,10 @@
 
     <h3 class="category-head">post</h3>
     <a name="post"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/2020/09/06/daniels-digest">Daniel's Digest</a></h4>
+    </article>
     
     <article class="archive-item">
       <h4><a href="/2020/08/30/daniels-digest">Daniel's Digest</a></h4>
@@ -181,6 +195,10 @@
 
     <h3 class="category-head">newsletter</h3>
     <a name="newsletter"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/2020/09/06/daniels-digest">Daniel's Digest</a></h4>
+    </article>
     
     <article class="archive-item">
       <h4><a href="/2020/08/30/daniels-digest">Daniel's Digest</a></h4>
