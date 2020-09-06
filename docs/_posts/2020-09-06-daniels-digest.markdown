@@ -17,7 +17,7 @@ tags:
 
 Hey friends,
 
-Hope everyone is enjoying the start of Autumn, which is definitely my favorite season. Growing up it signaled the start of school (which I loved, I admit unabashedly), crisp air, and beautiful color changes in surrounding plant life.
+Hope everyone is enjoying the preliminary stages of Fall. Autumn is definitely my favorite season - growing up it signaled the start of school (which I loved, I admit unabashedly), crisp air, and beautiful color changes in surrounding plant life.
 
 I wanted to touch on a mental model I’ve been contemplating, that I’m calling, “positivity inertia.” I talk about it on the [latest podcast episode](https://open.spotify.com/episode/6KVxE1SPtM9ljmBwrzN51w) with my friend, Russell Bogue. It’s the concept that success and big breakthroughs are the result of many many steps, and that, with the accumulation of these steps, an “inertia” is achieved, and subsequent successes and breakthroughs are much easier. I think we can be quick to get frustrated about not seeing results immediately, and I think it’s important to realize that, with small successes, larger successes inevitably come. It goes back to the concept we talked about of loving the grind. Keep the faith and love the process.
 
