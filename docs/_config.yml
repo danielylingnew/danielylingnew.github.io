@@ -33,7 +33,7 @@ plugins:
 
 title: Daniel Ling
 email: dling@alumni.princeton.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: #>- # this means to ignore newlines until "baseurl:"
 
   Welcome to my website! Thanks for visiting.
 
