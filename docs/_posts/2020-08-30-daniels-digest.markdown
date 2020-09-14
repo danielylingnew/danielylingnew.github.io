@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Daniel's Digest"
+title:  "Daniel's Digest - Decision Theory in Expenditures"
 date:   2020-08-30
 categories: blog post newsletter
 permalink: /:year/:month/:day/:title

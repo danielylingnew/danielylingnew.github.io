@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Daniel's Digest"
+title:  "Daniel's Digest - Morning Walks"
 date:   2020-08-23
 categories: blog post newsletter
 permalink: /:year/:month/:day/:title
