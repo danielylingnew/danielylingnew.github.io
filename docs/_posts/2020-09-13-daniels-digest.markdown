@@ -30,12 +30,12 @@ Daniel
 
 ### Things that resonated with me this week
 
-1. I enjoyed reading about [this iconic restaurant](https://www.wsj.com/articles/SB10001424052970204358004577030221372723992) in Woodside, CA called Buck's. Entrepreneurs and VC's in the area often conduct their deal negotiations over meals at Buck's. And it was interesting to hear how the restaurant owner could get a sense of the state of the venture capital landscape, based on how many people were coming in to his restaurant to execute venture deals. Netscape, Tesla, and PayPal all executed some of their early funding rounds there. If the restaurant was buzzing, so was the early-stage tech economy, with startups raising funds and venture firms deploying capital - all while sitting down at a table at Buck's.
-2. [This was a great piece](https://nbt.substack.com/p/agglomerators-vs-specialists) by Nikhil Basu Trivedi, who is also a Princeton alum and investor in early-stage tech. He shares his thoughts on the future of the venture landscape.
+1. I enjoyed reading about [this iconic restaurant](https://www.wsj.com/articles/SB10001424052970204358004577030221372723992) in Woodside, CA called Buck's. Entrepreneurs and VCs in the area often conduct their deal negotiations over meals at Buck's. And it was interesting to hear how the restaurant owner could get a sense of the state of the venture capital landscape, based on how many people were coming into his restaurant to execute venture deals. Netscape, Tesla, and PayPal all executed some of their early funding rounds there. If the restaurant was buzzing, so was the early-stage tech economy, with startups raising funds and venture firms deploying capital - all while sitting down at a table at Buck's.
+2. [This was a great piece](https://nbt.substack.com/p/agglomerators-vs-specialists) by Nikhil Basu Trivedi, who is also a Princeton alum and investor in early-stage tech. He shares his thoughts on the venture landscape.
 
 ### Things I'm trying out
 
-- For my morning reading sessions, I've been picking books from my bookshelf with an element of spontaneity and selecting based on how I'm feeling that morning. It's nice to read chapters from different books simultaneously - I find that it leads to a cross-pollination of ideas, and that a more comprehensive perspective is gained. I also feel that I'm able to pull new insights and mental models from this process.
+- For my morning reading sessions, I've been picking books from my bookshelf with an element of spontaneity and selecting based on how I'm feeling that morning. It's nice to read chapters from different books simultaneously - I find that it leads to a cross-pollination of ideas, and that a more comprehensive perspective is gained. I also feel that I'm able to pull new insights and unique mental models from this process.
 
 ### Stuff that's on my mind
 
