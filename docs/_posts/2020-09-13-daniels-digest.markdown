@@ -21,7 +21,7 @@ Hope everyone is doing well. I've been thinking about how reflecting in terms of
 
 One thing I've been incorporating into my morning routine is reading a hardcover book for 20 minutes and taking notes on it before starting the day. I've found that it gets the day started on the right foot and adds some nice perspective. I think in our increasingly digital world, it's easy to become reliant on our digital interfaces and read exclusively digital text. But there will always be something missing in that experience, and the feeling of holding a hardcover book in your hands, highlighting a passage that resonates with you, and taking notes in the margins - it's such an enjoyable way to read and take notes on your books.
 
-Another thing I've been doing, which I'd suggest to anyone that wants to take control of his or her book notes, is using Scannable to import my notes from hardcover books into a database in Notion. It's a great way to organize them in a centralized fashion. Other tools like Instapaper and Readwise are also useful for saving your highlights of text, but they're more geared for digital use cases. Happy reading!
+Another thing I've been doing, which I'd suggest to anyone that wants to take control of his or her book notes, is using Scannable to import my notes from hardcover books into a database in Notion. It's a great way to organize them in a centralized fashion. Other tools like Instapaper and Readwise are also useful for saving your highlights of text, but they're more geared to digital use cases. Happy reading!
 
 Have a great week!\
 Daniel
