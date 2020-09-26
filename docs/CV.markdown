@@ -107,6 +107,16 @@ Rhode Island Science Fair (2011, Overall Winner - Senior Division Champion)
 </p>
 </details>
 
+<br>
+
+<!--- additional emails -->
+Contact:\
+<a href="mailto:daniel.ling@lrc.systems">
+	daniel.ling@lrc.systems</a>\
+<a href="mailto:daniel@pjc.vc">
+	daniel@pjc.vc</a>\
+<a href="mailto:dling@alumni.princeton.edu">
+	dling@alumni.princeton.edu</a>
 
 <!--- script for button bar -->
 <script>
