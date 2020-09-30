@@ -26,7 +26,9 @@ You can find the source code for Jekyll at GitHub:
 <br/><br/>
 
 <!--- Social mirroring -->  
-#### Latest from Daniel Ling
+#### _Latest from Daniel Ling_
+
+Daniel Ling on [Twitter](https://twitter.com/danielyuling)
 
 <!--- Twitter follow button -->  
 <a href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @danielyuling</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -38,6 +40,16 @@ You can find the source code for Jekyll at GitHub:
 <div style="text-align: center;">
 <a class="twitter-timeline" data-height="1000" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+
+<br>
+
+***
+
+<br>
+
+Daniel Ling on [Instagram](https://www.instagram.com/danielyling/)
+
+<br>
 
 <!-- Instagram timeline using SnapWidget -->
 <iframe src="https://snapwidget.com/embed/860173" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:735px; height:735px"></iframe>
