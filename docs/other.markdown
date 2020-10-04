@@ -10,6 +10,8 @@ I serve as an alumni mentor for the [Bendheim Center for Finance](https://en.wik
 
 My father (Xinsheng Ling) grew up in Wuhan and my mother (Hongyu Zhao) grew up in Zhengzhou. Upon graduating from college, they decided to make the giant leap of immigrating to the U.S. (for the first time in their lineages) together for their graduate studies at the University of Connecticut. The U.S. embraced them with open arms and opportunity, and for that I am quite devoted to U.S.-China relations and intercultural understanding. Formerly an invited ambassador for the [Ameson Foundation](https://en.wikipedia.org/wiki/Ameson_Education_and_Cultural_Exchange_Foundation), as a [U.S. Presidential Scholar](http://ameson.org/17-english/ameson-projects?start=9).
 
+In my spare time, I tutor students on the SAT. I received an 800 in Writing, 800 in Math, and 780 in CR. I tutor all sections of the SAT as well as subject tests. Contact me at [dling@alumni.princeton.edu](mailto:dling@alumni.princeton.edu) in regards to tutoring inquiries.
+
 [Here](https://www.youtube.com/watch?v=Rru3XR9G8xE) is a soccer highlight (Black Watch Premier vs Boston Bolts, U14).
 
 You can find the source code for Minima at GitHub:
