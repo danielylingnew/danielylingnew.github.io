@@ -5,8 +5,11 @@ date:   2020-11-12
 categories: blog post
 permalink: /:year/:month/:day/:title
 tags:
-- investing
-- mental model
+- character
+- leadership
+- U.S. history
+- combating systemic racism
+- justice
 ---
 
 *Any non-RT was written by me:*
