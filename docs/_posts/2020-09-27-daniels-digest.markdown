@@ -2,7 +2,7 @@
 layout: post
 title:  "Daniel's Digest - On Focus and Striving for Justice"
 date:   2020-09-27
-categories: blog post newsletter
+categories: newsletter
 permalink: /:year/:month/:day/:title
 tags:
 - mindset

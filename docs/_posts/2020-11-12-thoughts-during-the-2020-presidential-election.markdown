@@ -2,7 +2,7 @@
 layout: post
 title:  "Thoughts During the 2020 Presidential Election"
 date:   2020-11-12
-categories: blog post
+categories: blog
 permalink: /:year/:month/:day/:title
 tags:
 - character

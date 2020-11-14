@@ -2,7 +2,7 @@
 layout: post
 title:  "Messi Leaving Barcelona"
 date:   2020-08-25
-categories: blog post
+categories: blog
 permalink: /:year/:month/:day/:title
 tags: approach mindset sports
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Daniel’s Digest - Positivity Inertia"
 date:   2020-09-06
-categories: blog post newsletter
+categories: newsletter
 permalink: /:year/:month/:day/:title
 tags:
 - mental model

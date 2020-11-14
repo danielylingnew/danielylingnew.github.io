@@ -2,7 +2,7 @@
 layout: post
 title:  "Daniel's Digest - Decision Theory in Expenditures"
 date:   2020-08-30
-categories: blog post newsletter
+categories: newsletter
 permalink: /:year/:month/:day/:title
 tags: health innovation decision-making sports writing mindset approach
 ---

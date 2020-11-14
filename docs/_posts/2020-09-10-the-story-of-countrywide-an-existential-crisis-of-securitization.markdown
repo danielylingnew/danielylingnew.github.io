@@ -2,7 +2,7 @@
 layout: post
 title:  "The Story of Countrywide: An Existential Crisis of Securitization"
 date:   2020-09-10
-categories: blog post
+categories: blog
 permalink: /:year/:month/:day/:title
 tags:
 - investing

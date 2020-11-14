@@ -2,7 +2,7 @@
 layout: post
 title:  "Daniel’s Digest - Comprehensive Perspectives"
 date:   2020-09-13
-categories: blog post newsletter
+categories: newsletter
 permalink: /:year/:month/:day/:title
 tags:
 - mental model

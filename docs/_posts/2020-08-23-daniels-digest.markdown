@@ -2,7 +2,7 @@
 layout: post
 title:  "Daniel's Digest - Morning Walks"
 date:   2020-08-23
-categories: blog post newsletter
+categories: newsletter
 permalink: /:year/:month/:day/:title
 tags: writing productivity music mindset
 ---

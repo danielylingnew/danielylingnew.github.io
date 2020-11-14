@@ -2,7 +2,7 @@
 layout: post
 title:  "Daniel's Digest - The Importance of Character"
 date:   2020-09-20
-categories: blog post newsletter
+categories: newsletter
 permalink: /:year/:month/:day/:title
 tags:
 - mindset

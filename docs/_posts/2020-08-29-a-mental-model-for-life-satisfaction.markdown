@@ -2,7 +2,7 @@
 layout: post
 title:  "A Mental Model for Life Satisfaction"
 date:   2020-08-29
-categories: blog post
+categories: blog
 permalink: /:year/:month/:day/:title
 tags:
 - productivity
