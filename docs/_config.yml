@@ -23,7 +23,7 @@ header_pages:
   - publications.markdown
   - news.markdown
   - other.markdown
-  - danieldelves.markdown
+  - writing.markdown
   - podcast.markdown
   - CV.markdown
 
