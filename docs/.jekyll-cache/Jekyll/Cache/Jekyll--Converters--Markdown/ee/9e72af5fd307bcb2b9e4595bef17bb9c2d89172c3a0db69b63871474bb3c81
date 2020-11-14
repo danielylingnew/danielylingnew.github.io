@@ -1,53 +1,60 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Categories | Daniel Ling</title>
-<meta name="generator" content="Jekyll v4.1.1" />
-<meta property="og:title" content="Categories" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="© Daniel Ling 2020 Welcome to my website!" />
-<meta property="og:description" content="© Daniel Ling 2020 Welcome to my website!" />
-<link rel="canonical" href="http://localhost:4000/categories" />
-<meta property="og:url" content="http://localhost:4000/categories" />
-<meta property="og:site_name" content="Daniel Ling" />
-<script type="application/ld+json">
-{"description":"© Daniel Ling 2020 Welcome to my website!","@type":"WebPage","headline":"Categories","url":"http://localhost:4000/categories","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Daniel Ling" /></head>
-<body><header class="site-header" role="banner">
+I"9>
+<p><a name="AI"></a></p>
+<h3>AI</h3>
+<ul class="related-posts">
 
-  <div class="wrapper"><a class="site-title" rel="author" href="/">Daniel Ling</a><nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
+   <li><a href="/2020/08/19/network-effects-in-ai">Network Effects in AI</a> <small>19 Aug 2020</small></li>
 
-        <div class="trigger"><a class="page-link" href="/">Home</a><a class="page-link" href="/about">About</a><a class="page-link" href="/publications">Publications</a><a class="page-link" href="/news">News</a><a class="page-link" href="/other">Other</a><a class="page-link" href="/writing">Writing</a><a class="page-link" href="/podcast">Podcast</a><a class="page-link" href="/CV">CV</a></div>
-      </nav></div>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <article class="post">
-<head>
-<link href='http:www.danielyling.com/feed.xml' rel='alternate' type='application/atom+xml'>
-</head>
+</ul>
 
+<p><a name="U.S. history"></a></p>
+<h3>U.S. history</h3>
+<ul class="related-posts">
 
-  <header class="post-header">
-    <h1 class="page-heading">Categories</h1>
-	<!-- change to post-title to make it bigger -->
-  </header>
+   <li><a href="/2020/11/12/thoughts-during-the-2020-presidential-election">Thoughts During the 2020 Presidential Election</a> <small>12 Nov 2020</small></li>
 
-  <div class="post-content">
-    
-<p><a name="blog"></a></p>
-<h3>blog</h3>
+   <li><a href="/2019/11/02/wilson">Wilson</a> <small>02 Nov 2019</small></li>
+
+</ul>
+
+<p><a name="VC"></a></p>
+<h3>VC</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/08/19/network-effects-in-ai">Network Effects in AI</a> <small>19 Aug 2020</small></li>
+
+</ul>
+
+<p><a name="applied math"></a></p>
+<h3>applied math</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/08/19/network-effects-in-ai">Network Effects in AI</a> <small>19 Aug 2020</small></li>
+
+</ul>
+
+<p><a name="approach"></a></p>
+<h3>approach</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/09/27/daniels-digest">Daniel's Digest - On Focus and Striving for Justice</a> <small>27 Sep 2020</small></li>
+
+   <li><a href="/2020/09/20/daniels-digest">Daniel's Digest - The Importance of Character</a> <small>20 Sep 2020</small></li>
+
+   <li><a href="/2020/09/13/daniels-digest">Daniel’s Digest - Comprehensive Perspectives</a> <small>13 Sep 2020</small></li>
+
+   <li><a href="/2020/09/06/daniels-digest">Daniel’s Digest - Positivity Inertia</a> <small>06 Sep 2020</small></li>
+
+   <li><a href="/2020/08/30/daniels-digest">Daniel's Digest - Decision Theory in Expenditures</a> <small>30 Aug 2020</small></li>
+
+   <li><a href="/2020/08/29/a-mental-model-for-life-satisfaction">A Mental Model for Life Satisfaction</a> <small>29 Aug 2020</small></li>
+
+   <li><a href="/2020/08/25/messi-leaving-barcelona">Messi Leaving Barcelona</a> <small>25 Aug 2020</small></li>
+
+</ul>
+
+<p><a name="character"></a></p>
+<h3>character</h3>
 <ul class="related-posts">
 
    <li><a href="/2020/11/12/thoughts-during-the-2020-presidential-election">Thoughts During the 2020 Presidential Election</a> <small>12 Nov 2020</small></li>
@@ -56,67 +63,93 @@
 
    <li><a href="/2020/09/20/daniels-digest">Daniel's Digest - The Importance of Character</a> <small>20 Sep 2020</small></li>
 
-   <li><a href="/2020/09/13/daniels-digest">Daniel’s Digest - Comprehensive Perspectives</a> <small>13 Sep 2020</small></li>
-
-   <li><a href="/2020/09/10/the-story-of-countrywide-an-existential-crisis-of-securitization">The Story of Countrywide: An Existential Crisis of Securitization</a> <small>10 Sep 2020</small></li>
-
-   <li><a href="/2020/09/06/daniels-digest">Daniel’s Digest - Positivity Inertia</a> <small>06 Sep 2020</small></li>
-
-   <li><a href="/2020/08/30/daniels-digest">Daniel's Digest - Decision Theory in Expenditures</a> <small>30 Aug 2020</small></li>
-
-   <li><a href="/2020/08/29/a-mental-model-for-life-satisfaction">A Mental Model for Life Satisfaction</a> <small>29 Aug 2020</small></li>
-
-   <li><a href="/2020/08/26/notion">Notion</a> <small>26 Aug 2020</small></li>
-
-   <li><a href="/2020/08/25/messi-leaving-barcelona">Messi Leaving Barcelona</a> <small>25 Aug 2020</small></li>
-
-   <li><a href="/2020/08/23/daniels-digest">Daniel's Digest - Morning Walks</a> <small>23 Aug 2020</small></li>
-
-   <li><a href="/2020/08/19/network-effects-in-ai">Network Effects in AI</a> <small>19 Aug 2020</small></li>
-
-   <li><a href="/2020/08/10/hello">Hello!</a> <small>10 Aug 2020</small></li>
-
-   <li><a href="/2020/08/03/welcome-to-jekyll">Welcome to Jekyll!</a> <small>03 Aug 2020</small></li>
-
-   <li><a href="/2019/11/02/wilson">Wilson</a> <small>02 Nov 2019</small></li>
-
 </ul>
 
-<p><a name="book review"></a></p>
-<h3>book review</h3>
-<ul class="related-posts">
-
-   <li><a href="/2019/11/02/wilson">Wilson</a> <small>02 Nov 2019</small></li>
-
-</ul>
-
-<p><a name="newsletter"></a></p>
-<h3>newsletter</h3>
-<ul class="related-posts">
-
-   <li><a href="/2020/09/27/daniels-digest">Daniel's Digest - On Focus and Striving for Justice</a> <small>27 Sep 2020</small></li>
-
-   <li><a href="/2020/09/20/daniels-digest">Daniel's Digest - The Importance of Character</a> <small>20 Sep 2020</small></li>
-
-   <li><a href="/2020/09/13/daniels-digest">Daniel’s Digest - Comprehensive Perspectives</a> <small>13 Sep 2020</small></li>
-
-   <li><a href="/2020/09/06/daniels-digest">Daniel’s Digest - Positivity Inertia</a> <small>06 Sep 2020</small></li>
-
-   <li><a href="/2020/08/30/daniels-digest">Daniel's Digest - Decision Theory in Expenditures</a> <small>30 Aug 2020</small></li>
-
-   <li><a href="/2020/08/23/daniels-digest">Daniel's Digest - Morning Walks</a> <small>23 Aug 2020</small></li>
-
-</ul>
-
-<p><a name="post"></a></p>
-<h3>post</h3>
+<p><a name="combating systemic racism"></a></p>
+<h3>combating systemic racism</h3>
 <ul class="related-posts">
 
    <li><a href="/2020/11/12/thoughts-during-the-2020-presidential-election">Thoughts During the 2020 Presidential Election</a> <small>12 Nov 2020</small></li>
 
    <li><a href="/2020/09/27/daniels-digest">Daniel's Digest - On Focus and Striving for Justice</a> <small>27 Sep 2020</small></li>
 
+</ul>
+
+<p><a name="decision-making"></a></p>
+<h3>decision-making</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/08/30/daniels-digest">Daniel's Digest - Decision Theory in Expenditures</a> <small>30 Aug 2020</small></li>
+
+   <li><a href="/2020/08/29/a-mental-model-for-life-satisfaction">A Mental Model for Life Satisfaction</a> <small>29 Aug 2020</small></li>
+
+   <li><a href="/2019/11/02/wilson">Wilson</a> <small>02 Nov 2019</small></li>
+
+</ul>
+
+<p><a name="health"></a></p>
+<h3>health</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/09/27/daniels-digest">Daniel's Digest - On Focus and Striving for Justice</a> <small>27 Sep 2020</small></li>
+
    <li><a href="/2020/09/20/daniels-digest">Daniel's Digest - The Importance of Character</a> <small>20 Sep 2020</small></li>
+
+   <li><a href="/2020/09/13/daniels-digest">Daniel’s Digest - Comprehensive Perspectives</a> <small>13 Sep 2020</small></li>
+
+   <li><a href="/2020/08/30/daniels-digest">Daniel's Digest - Decision Theory in Expenditures</a> <small>30 Aug 2020</small></li>
+
+</ul>
+
+<p><a name="innovation"></a></p>
+<h3>innovation</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/08/30/daniels-digest">Daniel's Digest - Decision Theory in Expenditures</a> <small>30 Aug 2020</small></li>
+
+</ul>
+
+<p><a name="investing"></a></p>
+<h3>investing</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/09/10/the-story-of-countrywide-an-existential-crisis-of-securitization">The Story of Countrywide: An Existential Crisis of Securitization</a> <small>10 Sep 2020</small></li>
+
+   <li><a href="/2020/08/19/network-effects-in-ai">Network Effects in AI</a> <small>19 Aug 2020</small></li>
+
+</ul>
+
+<p><a name="justice"></a></p>
+<h3>justice</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/11/12/thoughts-during-the-2020-presidential-election">Thoughts During the 2020 Presidential Election</a> <small>12 Nov 2020</small></li>
+
+   <li><a href="/2020/09/27/daniels-digest">Daniel's Digest - On Focus and Striving for Justice</a> <small>27 Sep 2020</small></li>
+
+</ul>
+
+<p><a name="leadership"></a></p>
+<h3>leadership</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/11/12/thoughts-during-the-2020-presidential-election">Thoughts During the 2020 Presidential Election</a> <small>12 Nov 2020</small></li>
+
+   <li><a href="/2020/09/20/daniels-digest">Daniel's Digest - The Importance of Character</a> <small>20 Sep 2020</small></li>
+
+</ul>
+
+<p><a name="meditation"></a></p>
+<h3>meditation</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/09/20/daniels-digest">Daniel's Digest - The Importance of Character</a> <small>20 Sep 2020</small></li>
+
+</ul>
+
+<p><a name="mental model"></a></p>
+<h3>mental model</h3>
+<ul class="related-posts">
 
    <li><a href="/2020/09/13/daniels-digest">Daniel’s Digest - Comprehensive Perspectives</a> <small>13 Sep 2020</small></li>
 
@@ -124,21 +157,95 @@
 
    <li><a href="/2020/09/06/daniels-digest">Daniel’s Digest - Positivity Inertia</a> <small>06 Sep 2020</small></li>
 
+   <li><a href="/2020/08/29/a-mental-model-for-life-satisfaction">A Mental Model for Life Satisfaction</a> <small>29 Aug 2020</small></li>
+
+</ul>
+
+<p><a name="mindset"></a></p>
+<h3>mindset</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/09/27/daniels-digest">Daniel's Digest - On Focus and Striving for Justice</a> <small>27 Sep 2020</small></li>
+
+   <li><a href="/2020/09/20/daniels-digest">Daniel's Digest - The Importance of Character</a> <small>20 Sep 2020</small></li>
+
+   <li><a href="/2020/09/13/daniels-digest">Daniel’s Digest - Comprehensive Perspectives</a> <small>13 Sep 2020</small></li>
+
+   <li><a href="/2020/09/06/daniels-digest">Daniel’s Digest - Positivity Inertia</a> <small>06 Sep 2020</small></li>
+
    <li><a href="/2020/08/30/daniels-digest">Daniel's Digest - Decision Theory in Expenditures</a> <small>30 Aug 2020</small></li>
 
    <li><a href="/2020/08/29/a-mental-model-for-life-satisfaction">A Mental Model for Life Satisfaction</a> <small>29 Aug 2020</small></li>
-
-   <li><a href="/2020/08/26/notion">Notion</a> <small>26 Aug 2020</small></li>
 
    <li><a href="/2020/08/25/messi-leaving-barcelona">Messi Leaving Barcelona</a> <small>25 Aug 2020</small></li>
 
    <li><a href="/2020/08/23/daniels-digest">Daniel's Digest - Morning Walks</a> <small>23 Aug 2020</small></li>
 
-   <li><a href="/2020/08/19/network-effects-in-ai">Network Effects in AI</a> <small>19 Aug 2020</small></li>
+</ul>
 
-   <li><a href="/2020/08/10/hello">Hello!</a> <small>10 Aug 2020</small></li>
+<p><a name="music"></a></p>
+<h3>music</h3>
+<ul class="related-posts">
 
-   <li><a href="/2020/08/03/welcome-to-jekyll">Welcome to Jekyll!</a> <small>03 Aug 2020</small></li>
+   <li><a href="/2020/09/06/daniels-digest">Daniel’s Digest - Positivity Inertia</a> <small>06 Sep 2020</small></li>
+
+   <li><a href="/2020/08/23/daniels-digest">Daniel's Digest - Morning Walks</a> <small>23 Aug 2020</small></li>
+
+</ul>
+
+<p><a name="note-taking"></a></p>
+<h3>note-taking</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/09/13/daniels-digest">Daniel’s Digest - Comprehensive Perspectives</a> <small>13 Sep 2020</small></li>
+
+</ul>
+
+<p><a name="productivity"></a></p>
+<h3>productivity</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/09/27/daniels-digest">Daniel's Digest - On Focus and Striving for Justice</a> <small>27 Sep 2020</small></li>
+
+   <li><a href="/2020/09/20/daniels-digest">Daniel's Digest - The Importance of Character</a> <small>20 Sep 2020</small></li>
+
+   <li><a href="/2020/09/13/daniels-digest">Daniel’s Digest - Comprehensive Perspectives</a> <small>13 Sep 2020</small></li>
+
+   <li><a href="/2020/09/06/daniels-digest">Daniel’s Digest - Positivity Inertia</a> <small>06 Sep 2020</small></li>
+
+   <li><a href="/2020/08/29/a-mental-model-for-life-satisfaction">A Mental Model for Life Satisfaction</a> <small>29 Aug 2020</small></li>
+
+   <li><a href="/2020/08/26/notion">Notion</a> <small>26 Aug 2020</small></li>
+
+   <li><a href="/2020/08/23/daniels-digest">Daniel's Digest - Morning Walks</a> <small>23 Aug 2020</small></li>
+
+</ul>
+
+<p><a name="sports"></a></p>
+<h3>sports</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/09/20/daniels-digest">Daniel's Digest - The Importance of Character</a> <small>20 Sep 2020</small></li>
+
+   <li><a href="/2020/09/06/daniels-digest">Daniel’s Digest - Positivity Inertia</a> <small>06 Sep 2020</small></li>
+
+   <li><a href="/2020/08/30/daniels-digest">Daniel's Digest - Decision Theory in Expenditures</a> <small>30 Aug 2020</small></li>
+
+   <li><a href="/2020/08/25/messi-leaving-barcelona">Messi Leaving Barcelona</a> <small>25 Aug 2020</small></li>
+
+</ul>
+
+<p><a name="writing"></a></p>
+<h3>writing</h3>
+<ul class="related-posts">
+
+   <li><a href="/2020/09/20/daniels-digest">Daniel's Digest - The Importance of Character</a> <small>20 Sep 2020</small></li>
+
+   <li><a href="/2020/08/30/daniels-digest">Daniel's Digest - Decision Theory in Expenditures</a> <small>30 Aug 2020</small></li>
+
+   <li><a href="/2020/08/26/notion">Notion</a> <small>26 Aug 2020</small></li>
+
+   <li><a href="/2020/08/23/daniels-digest">Daniel's Digest - Morning Walks</a> <small>23 Aug 2020</small></li>
 
 </ul>
 
@@ -331,101 +438,4 @@
 
 </div>
 --->
-
-  </div>
-
-</article>
-
-      </div>
-    </main><footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
-
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-
-
-      <!-- First column -->
-      <div class="footer-col">
-        <p></p>
-        <p>© Daniel Ling 2020 | Welcome to my website!</p>
-        Email: <strong><a href="mailto:dling@alumni.princeton.edu" title="Email">
-          dling@alumni.princeton.edu</a></strong>
-      </div>
-
-      <!-- Second column -->
-      <div class="footer-col" style="float: right">
-
-
-        <!-- Adding social media buttons-->
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-        <style>
-                .fa {
-                  padding: 10px;
-                  font-size: 20px;
-                  height: 20px;
-                  width: 20px;
-                  text-align: center;
-                  text-decoration: none;
-                  margin: 5px 3px;
-                  border-radius: 50%;
-                }
-
-                .fa:hover {
-                    opacity: 0.7;
-                }
-
-                .fa-twitter {
-                  background: black;
-                  color: white;
-                }
-
-                .fa-instagram {
-                  background: black;
-                  color: white;
-                }
-
-                .fa-facebook {
-                  background: black;
-                  color: white;
-                }
-
-                .fa-linkedin {
-                  background: black;
-                  color: white;
-                }
-
-                .fa-medium {
-                  background: black;
-                  color: white;
-                }
-                .fa-youtube-play {
-                  background: black;
-                  color: white;
-                }
-        </style>
-
-    <br>
-
-    <div class="social-media-list">
-    <a href="https://twitter.com/danielyuling" class="fa fa-twitter"></a>
-    <a href="https://www.instagram.com/danielyling/" class="fa fa-instagram"></a>
-    <a href="https://www.facebook.com/danielyling/" class="fa fa-facebook"></a>
-    <a href="https://www.linkedin.com/in/danielyling/" class="fa fa-linkedin"></a>
-    <a href="https://medium.com/@danielyling" class="fa fa-medium"></a>
-    <a href="https://www.youtube.com/channel/UCMOKogz_eUVqxGWXPScr5tQ?view_as=subscriber" class="fa fa-youtube-play"></a>
-    </div>
-
-      </div>
-
-
-    </div>
-
-  </div>
-
-</footer>
-</body>
-
-</html>
+:ET
