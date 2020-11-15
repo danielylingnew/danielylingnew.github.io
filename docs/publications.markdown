@@ -17,3 +17,17 @@ I continue to be greatly interested in physics and chemistry, especially in conj
 I conducted my [senior thesis](https://dataspace.princeton.edu/jspui/handle/88435/dsp01bn9999183) at Princeton on applications of game theory and mechanism design in loan markets with information asymmetry. The thesis focuses on applied math in economics and contract theory. It was an honor to be advised by Professor [Stephen E. Morris](https://en.wikipedia.org/wiki/Stephen_Morris_(game_theorist)), economist and game theorist.
 
 My thesis is available upon request.
+
+I write a [blog](https://danieldelves.substack.com/) called *Daniel Delves* with my notes about venture capital, frontier technology, new markets, and the future of our world. I also write about health, wellness, and productivity. Subscribe [here](https://danieldelves.substack.com/welcome) to get it delivered directly to your inbox:
+
+<iframe src="https://danieldelves.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
+
+*Daniel's Digest* is [my weekly newsletter](https://danielsdigest.substack.com/) where I write about health, productivity, and mindset. Included are my thoughts, reflections, and notes from the week. Also included are some things I've enjoyed that week and articles that resonated with me. I’ll be sharing it every Sunday. Subscribe [here](https://danielsdigest.substack.com/welcome):
+
+<iframe src="https://danielsdigest.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
+
+To get both my blog and newsletter, as well as my book reviews and other writing, subscribe [here](https://danielling.substack.com/welcome):
+
+<iframe src="https://danielling.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
+
+I'll be aggregating and sharing all my writing on my personal website too (on the Writing tab), so you can check back to read it here and stay up to date.
