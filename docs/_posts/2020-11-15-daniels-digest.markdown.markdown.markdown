@@ -29,7 +29,7 @@ Daniel
 
 ### Things that resonated with me this week
 
-1. This was a great piece that references Ed Sheeran's songwriting approach, describing a "creativity faucet." It's about volume and continuing to create - whether it's music composition, writing, or even scientific research, and you discover along the way.
+1. [This](https://twitter.com/Julian/status/1327765347936522240?s=20) was a great piece that references Ed Sheeran's songwriting approach, describing a "creativity faucet." It's about volume and continuing to create - whether it's music composition, writing, or even scientific research, and you discover along the way.
 2. [A great primer](https://www.nicknish.co/blog/what-makes-notion-great) on Notion and all of its benefits.
 3. I love [Messi's focus](https://www.youtube.com/watch?v=jViVVq6NI4M) in the pre-game warmup here.
 
