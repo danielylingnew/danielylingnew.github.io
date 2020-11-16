@@ -15,7 +15,7 @@ tags:
 
 Hey friends,
 
-I've been thinking about how we can bifurcate two different "types" of thinking and operation - the "child" and the "adult". I think there are important elements of the "child" that are incredibly useful and essential to retain, such as the child's uninhibited approach to creativity. There are not so good qualities of the child, such as recklessness. The same can be said of the "adult" - I think the maturity and strength of resolve seen in adults are important qualities to have, while other characteristics such as the tendency to overthink are not so good.
+I've been thinking about how we can bifurcate two different "types" of thinking and operating - the "child" and the "adult". I think there are important elements of the "child" that are incredibly useful and essential to retain, such as the child's uninhibited approach to creativity. There are not so good qualities of the child, such as recklessness. The same can be said of the "adult" - I think the maturity and strength of resolve seen in adults are important qualities to have, while other characteristics such as the tendency to overthink are not so good.
 
 This leads me to think that we ought to select and choose the elements of each type that are good for us, and discard the elements that are not good - adopting the full set of characteristics of either one can be detrimental. Hope this is a helpful or at least interesting mental model. I'll talk more about this in a future newsletter.
 
