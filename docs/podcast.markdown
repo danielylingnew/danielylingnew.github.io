@@ -12,7 +12,7 @@ I host the *[Absolute Value](https://podcasts.apple.com/us/podcast/absolute-valu
 
 Subscribe and listen to *Absolute Value* on [Apple Podcasts](https://podcasts.apple.com/us/podcast/absolute-value/id1530452927), [iTunes](http://www.applepodcasts.com/absolutevalue), [Spotify](https://open.spotify.com/show/5xOCE50HXXHvWRPP8eToP0), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zM2RhYTVjNC9wb2RjYXN0L3Jzcw==), and wherever quality podcasts are downloaded. You can also find the podcast on [Anchor](https://anchor.fm/daniel-ling).
 
-Follow us on [Twitter](https://twitter.com/absvaluepodcast), [Instagram](https://www.instagram.com/absolutevaluepodcast/), [Facebook](https://www.facebook.com/absolutevaluepodcast), [Medium](https://medium.com/@absolutevaluepodcast), and [LinkedIn](https://www.linkedin.com/company/absolutevaluemedia/) to stay up to date.
+Follow us on [Twitter](https://twitter.com/absvaluepodcast), [Instagram](https://www.instagram.com/absolutevaluepodcast/), [Facebook](https://www.facebook.com/absolutevaluepodcast), [Medium](https://medium.com/@absolutevalue), and [LinkedIn](https://www.linkedin.com/company/absolutevaluemedia/) to stay up to date.
 
 Thanks for listening and [leave a message](https://anchor.fm/daniel-ling/message) (your message can be included in future episodes)!
 
