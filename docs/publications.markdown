@@ -18,16 +18,24 @@ I conducted my [senior thesis](https://dataspace.princeton.edu/jspui/handle/8843
 
 My thesis is available upon request.
 
-I write a [blog](https://danieldelves.substack.com/) called *Daniel Delves* with my notes about venture capital, frontier technology, new markets, and the future of our world. I also write about health, wellness, and productivity. Subscribe [here](https://danieldelves.substack.com/welcome) to get it delivered directly to your inbox:
-
-<iframe src="https://danieldelves.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
-
-*Daniel's Digest* is [my weekly newsletter](https://danielsdigest.substack.com/) where I write about health, productivity, and mindset. Included are my thoughts, reflections, and notes from the week. Also included are some things I've enjoyed that week and articles that resonated with me. I’ll be sharing it every Sunday. Subscribe [here](https://danielsdigest.substack.com/welcome):
+*Daniel's Digest* is [my weekly newsletter](https://danielsdigest.substack.com/) where I write about health, productivity, and mindset. Included are my thoughts, reflections, and notes from the week. Also included are some things I've enjoyed that week and articles that resonated with me. I’ll be sharing it every Sunday. Subscribe [here](https://danielsdigest.substack.com/welcome) to get it delivered directly to your inbox:
 
 <iframe src="https://danielsdigest.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
 
-To get both my blog and newsletter, as well as my book reviews and other writing, subscribe [here](https://danielling.substack.com/welcome):
+I write a [blog](https://lingthoughts.substack.com/) called *Ling Thoughts* with my notes about venture capital, frontier technology, new markets, and the future of our world. I also write about health, wellness, and productivity. Subscribe [here](https://lingthoughts.substack.com/welcome):
+
+<iframe src="https://lingthoughts.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
+
+To get both my newsletter and blog, as well as my book reviews and other writing, subscribe [here](https://lingnotes.substack.com/welcome):
+
+<iframe src="https://lingnotes.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
+
+To get updates on me and the latest, subscribe [here](https://danielling.substack.com/welcome):
 
 <iframe src="https://danielling.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
+
+I also write on complex systems research and venture-building, for both pandemic response and frontier technology/moonshot technologies in general, over at the [LRC](https://lrc.systems)'s [blog](https://medium.com/@lrc.systems) and [here](https://lrcsystems.substack.com/welcome):
+
+<iframe src="https://lrcsystems.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
 
 I'll be aggregating and sharing all my writing on my personal website too (on the Writing tab), so you can check back to read it here and stay up to date.

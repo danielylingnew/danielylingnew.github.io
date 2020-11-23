@@ -18,7 +18,9 @@ Thanks for listening and [leave a message](https://anchor.fm/daniel-ling/message
 
 [RSS feed link](http://www.danielyling.com/feed.xml)
 
-<br>
+To get updates on new episodes of *Absolute Value* sent straight to your inbox, subscribe [here](https://absolutevalue.substack.com/welcome):
+
+<iframe src="https://absolutevalue.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
 
 The opening episode with my first guest, Nobel Prize winner J. Michael Kosterlitz, is out now:
 
