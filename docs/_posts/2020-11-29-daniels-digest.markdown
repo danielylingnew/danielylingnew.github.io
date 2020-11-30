@@ -25,7 +25,7 @@ Daniel
 
 ### Things that resonated with me this week
 
-1. [This](https://www.nytimes.com/2020/11/28/obituaries/tony-hsieh-dead.html) was tragic. I remember hearing Tony Hsieh talk through his decision-making process around the sale of Zappos to Amazon. He was a visionary in the startup and early-stage venture community, and he illustrated the power of positivity and kindness.
+1. [This](https://www.nytimes.com/2020/11/28/obituaries/tony-hsieh-dead.html) was tragic to hear. I remember hearing Tony Hsieh talk through his decision-making process around the sale of Zappos to Amazon. He was a visionary in the startup and early-stage venture community, and he illustrated the power of positivity and kindness.
 2. Love [this ad](https://www.youtube.com/watch?v=QBa8GvuwUsU) with Leo Messi and its underlying message. Focus on what makes you unique, not your limitations. Messi grew up with a growth hormone deficiency, which made him smaller than other players around him - but he learned to play with his feet, leverage his lower center of gravity, and acquired the characteristics that make him the player he is today.
 3. There is something about [the process of making coffee](https://www.youtube.com/watch?v=kUeQNiXk0pQ) in the morning that I love. Mornings are definitely my favorite part of the day.
 
