@@ -34,7 +34,7 @@ To get updates on me and the latest, subscribe [here](https://danielling.substac
 
 <iframe src="https://danielling.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
 
-I also write on complex systems research and venture-building, for both pandemic response and frontier technology/moonshot technologies in general, over at the [LRC](https://lrc.systems)'s [blog](https://medium.com/@lrc.systems) and [here](https://lrcsystems.substack.com/welcome):
+I also write on complex systems research and venture-building, for both pandemic response and frontier technology/moonshot technologies in general, over at the [LRC](https://lrc.systems)'s [blog](https://lrcsystems.medium.com/) and [here](https://lrcsystems.substack.com/welcome):
 
 <iframe src="https://lrcsystems.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
 
