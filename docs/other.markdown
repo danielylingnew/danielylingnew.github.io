@@ -25,7 +25,9 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-<br/><br/>
+Stay in touch with me! Subscribe [here](https://danling.substack.com/welcome) to get the latest from me and keep in touch:
+
+<iframe src="https://danling.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
 
 <!--- Social mirroring -->  
 #### _Latest from Daniel Ling_

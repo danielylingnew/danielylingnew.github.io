@@ -31,3 +31,7 @@ I was selected for the [All-State Team](http://www.providencejournal.com/article
 [Save the bay](http://bdcampbell.net/oworld/stb/view_signers.php). Environmental protection is of paramount importance in Rhode Island.
 
 My academic endeavors sometimes [coincided](https://patch.com/rhode-island/eastgreenwich/eg-boys-soccer-lose-to-smithfield-3-1-in-d-ii-state-c26e6576ecd) with my athletic pursuits. Well, that’s [life](https://en.wikipedia.org/wiki/This_Is_Water).
+
+To get news and updates on me, subscribe [here](https://danielling.substack.com/welcome):
+
+<iframe src="https://danielling.substack.com/embed" width="750" height="250" style="border:0px solid #EEE;" frameborder="0" scrolling="no"></iframe>
