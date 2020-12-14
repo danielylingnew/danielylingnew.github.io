@@ -12,6 +12,7 @@ tags:
 - economics
 - physics
 - innovation
+- investment theses
 ---
 
 By [Daniel Ling](https://www.lrc.systems/daniel-ling) and [Shailesh Date](https://www.lrc.systems/shailesh-date)
