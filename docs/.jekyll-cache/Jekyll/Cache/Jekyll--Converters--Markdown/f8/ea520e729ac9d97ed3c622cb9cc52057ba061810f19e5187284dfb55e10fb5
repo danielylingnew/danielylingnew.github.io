@@ -1,4 +1,4 @@
-I"!
+I"."
 <p><a name="blog"></a></p>
 <h3>blog</h3>
 <ul class="related-posts">
@@ -34,6 +34,8 @@
 <p><a name="newsletter"></a></p>
 <h3>newsletter</h3>
 <ul class="related-posts">
+
+   <li><a href="/2020/12/13/ling-notes">Ling Notes - Pandemic Prevention and Preparedness</a> <small>13 Dec 2020</small></li>
 
    <li><a href="/2020/12/06/ling-notes">Ling Notes - Reflecting and Congrats to Matt &amp; Pave</a> <small>06 Dec 2020</small></li>
 
@@ -167,6 +169,10 @@
 
     <h3 class="category-head">newsletter</h3>
     <a name="newsletter"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/2020/12/13/ling-notes">Ling Notes - Pandemic Prevention and Preparedness</a></h4>
+    </article>
     
     <article class="archive-item">
       <h4><a href="/2020/12/06/ling-notes">Ling Notes - Reflecting and Congrats to Matt & Pave</a></h4>
