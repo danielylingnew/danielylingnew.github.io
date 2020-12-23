@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ling Notes - Originality in the Unconscious"
+title:  "Ling Notes - Multifaceted Approaches for Disruptive Companies"
 date:   2020-12-20
 categories: newsletter
 permalink: /:year/:month/:day/:title
