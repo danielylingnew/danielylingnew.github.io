@@ -31,7 +31,7 @@ tags:
 Write down everything you’re grateful for, in general and within the categories below.
 
 1. Dad recovering from his head injury, which was scary. He was knocked unconscious for about 30 seconds. This gave me perspective, and the injury made me realize how fragile life is and in turn how precious life is. It also was a reminder to be grateful for each and every day, and that every day is a gift → this ties to the notion of enjoying the day by day, because that’s all we have, the current day. Not thinking about past, not thinking too much about the future. Enjoy the current day and moment at hand.
-    1. Also enjoying the process, enjoying the grind. You have to enjoy the process - Ryan Tedder. It’s not about the result, it’s about the process.
+    1. Also enjoying the process, enjoying the grind. You have to enjoy the process - goes back to [this interview](https://www.youtube.com/watch?v=p1TBxzgUCN8) with Ryan Tedder. It’s not about the result, it’s about the process.
     2. Goals are a compass, and the win is when we develop the systems and processes that put us on the path to our goals. The journey before the destination.
 2. [Childhood is](https://twitter.com/david_perell/status/1334718217193918467) longing for the magnificent, while adulthood is appreciating the mundane. I’m appreciating the mundane, and the little things.
 3. Realization that happiness comes from within, [dispelling anxiety comes from within](https://www.instagram.com/p/CIx-CFgL8sf/) - it is not an external thing; these things are within, contentment comes from within, and it comes with a switch in perspective, in mindset.
