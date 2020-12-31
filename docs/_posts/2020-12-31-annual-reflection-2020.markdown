@@ -113,3 +113,59 @@ Write down everything you’re grateful for, in general and within the categorie
 ### Other
 
 1. Enforcing minimalism, essentialism, minimizing physical possessions
+
+
+<br>
+<br>
+
+Below is my template that I fill out and use for my annual reflection (feel free to use!):
+
+## This year:
+
+### 🙏 Stuff I’m grateful for:
+
+Write down everything you’re grateful for, in general and within the categories below.
+
+1.
+
+- People
+- Accomplishments
+- Experiences
+- Things
+- Game Changers
+
+### Goals I've accomplished this year
+
+1.
+
+### Stuff I discovered this year
+
+1.
+
+### Life Lessons
+
+1.
+
+### Mental Frameworks
+
+1.
+
+### Headspace
+
+-
+
+<br>
+
+## Next year:
+
+### Goals that I'm setting for next year:
+
+1.
+
+### Looking forward to
+
+1.
+
+### Other
+
+1.
