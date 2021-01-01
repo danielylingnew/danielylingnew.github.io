@@ -61,7 +61,8 @@ Write down everything you’re grateful for, in general and within the categorie
 ### Goals I've accomplished this year
 
 1. Taking on an incredible fellowship at the Laboratory for Research in Complex Systems in Menlo Park, CA, where I'm focusing on research and venture-building across complex systems and pandemic response applications. Working on things like AI, self-driving cars, climatetech, quantum computing, and pandemic response/preparedness/prevention tech
-2. Haven’t had a sip of alcohol all year, and I’m dedicated to continuing this forever. More on my commitment to not drinking alcohol forevermore, in a blog post to come.
+2. I've had the chance to invest in some truly innovative and disruptive companies, evaluated countless other ones, met some incredibly inspiring & ambitious founders, and am also building a new software venture to aid the development of urgently needed novel vaccines. I hope to continue all of this into the new year.
+3. Haven’t had a sip of alcohol all year, and I’m dedicated to continuing this forever. More on my commitment to not drinking alcohol forevermore, in a blog post to come.
 
 ### Stuff I discovered this year
 
