@@ -40,7 +40,7 @@ Dan
 
 ### Stuff that's on my mind
 
-- It's important to remain committed to our goals and resolutions. James Clear had a great line in *Atomic Habits* where he said that working on our goals sometimes isn't necessarily about the actual steps we execute, although consistency there is often critical, but about dedication and casting votes for the identity of who we want to become. I'll find the actual quote and share it in a future newsletter.
+- It's important to remain committed to our goals and resolutions. James Clear had a great line in *Atomic Habits* where he said that working on our goals sometimes isn't necessarily about the actual steps we execute, although consistency there is often critical - it's about dedication and casting votes for the identity of who we want to become. I'll find the actual quote and share it in a future newsletter.
 
 ### Quote of the week
 
