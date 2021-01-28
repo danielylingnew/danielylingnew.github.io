@@ -65,7 +65,7 @@ permalink: /
 <!-- hover text method using overlay -->
 <div class="homephotocontainer">
 
-<img src="/assets/HomePhoto.jpg" title="Intel ISEF in Los Angeles (with Shree Bose)" class="responsivevertical" class="hover">
+<img src="/assets/HomePhoto.jpg" title="Intel ISEF in Los Angeles (with Shree Bose)">
 
 <div class="overlay">
 <div style="padding:20px;">
