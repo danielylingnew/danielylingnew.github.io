@@ -49,6 +49,39 @@
 </style>
 
 <!-- overlay title style -->
+<style>
+/** home photo overlay */
+.homephotocontainer {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+* {box-sizing: content-box;}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 15px;
+  padding: 0px;
+  text-align: left;
+}
+
+.homephotocontainer:hover .overlay {
+  opacity: 1;
+}
+</style>
 
 <!-- overlay title -->
 <div class="homephotocontainer">
