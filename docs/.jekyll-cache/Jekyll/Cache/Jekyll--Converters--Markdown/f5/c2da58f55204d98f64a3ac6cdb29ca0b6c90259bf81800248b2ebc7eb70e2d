@@ -1,4 +1,4 @@
-I" <!-- home photo style with hover text -->
+I" <!-- home photo style with hover text
 <style>
 .responsivevertical {
   max-height: 100%;
@@ -6,6 +6,7 @@
   vertical-align: middle;
 }
 </style>
+-->
 
 <!-- overlay title style -->
 <style>

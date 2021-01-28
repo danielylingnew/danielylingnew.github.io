@@ -11,7 +11,7 @@ permalink: /
 
 
 
-<!-- home photo style with hover text -->
+<!-- home photo style with hover text
 <style>
 .responsivevertical {
   max-height: 100%;
@@ -19,7 +19,7 @@ permalink: /
   vertical-align: middle;
 }
 </style>
-
+-->
 
 
 <!-- overlay title style -->
