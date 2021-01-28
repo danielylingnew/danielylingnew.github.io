@@ -25,6 +25,7 @@ header_pages:
   - other.markdown
   - writing.markdown
   - podcast.markdown
+  - gallery.markdown
   - CV.markdown
 
 # for RSS feed
