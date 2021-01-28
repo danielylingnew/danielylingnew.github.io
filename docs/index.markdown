@@ -24,18 +24,11 @@ permalink: /
 
 <!-- overlay title style -->
 <style>
-/** home photo overlay */
 .homephotocontainer {
   position: relative;
   width: 100%;
 }
 
-.image {
-  width: 100%;
-  height: auto;
-}
-
-* {box-sizing: content-box;}
 .overlay {
   position: absolute;
   bottom: 0;
