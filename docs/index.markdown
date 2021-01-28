@@ -22,7 +22,35 @@ permalink: /
 -->
 
 
-<!-- overlay title style -->
+<!-- overlay title style
+<style>
+.homephotocontainer {
+  position: relative;
+  width: 100%;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 15px;
+  padding: 0px;
+  text-align: left;
+}
+
+.homephotocontainer:hover .overlay {
+  opacity: 1;
+}
+</style>
+-->
+
+
 <style>
 .homephotocontainer {
   position: relative;
@@ -62,7 +90,7 @@ permalink: /
 -->
 
 
-<!-- hover text method using overlay -->
+<!-- hover text method using overlay
 <div class="homephotocontainer">
 
 <img src="/assets/HomePhoto.jpg" title="Intel ISEF in Los Angeles (with Shree Bose)">
@@ -74,7 +102,20 @@ Intel ISEF Awards Ceremony (with Shree Bose)
 </div>
 
 </div>
+-->
 
+
+<div class="homephotocontainer">
+
+<img src="/assets/HomePhoto.jpg">
+
+  <div class="overlay">
+    <div style="padding:20px;">
+    Intel ISEF Awards Ceremony (with Shree Bose)
+    </div>
+  </div>
+
+</div>
 
 
 <!-- hover text original
