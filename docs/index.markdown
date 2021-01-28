@@ -57,7 +57,7 @@ permalink: /
 </style>
 
 
-<!-- overlay title -->
+<!-- overlay title
 <div class="homephotocontainer">
   <img src="/assets/HomePhoto.jpg" alt="Avatar" class="image">
   <div class="overlay">
@@ -66,10 +66,25 @@ permalink: /
   </div>
   </div>
 </div>
+-->
+
+
+<!-- hover text method using overlay -->
+<div class="homephotocontainer">
+
+<img src="/assets/HomePhoto.jpg" title="Intel ISEF in Los Angeles (with Shree Bose)" class="responsivevertical" class="hover">
+
+<div class="overlay">
+<div style="padding:20px;">
+Intel ISEF Awards Ceremony (with Shree Bose)
+</div>
+</div>
+
+</div>
 
 
 
-<!-- hover text
+<!-- hover text original
 <div id="hovertext">
 
 <img src="/assets/HomePhoto.jpg" title="Intel ISEF in Los Angeles (with Shree Bose)" class="responsivevertical" class="hover">
@@ -78,7 +93,6 @@ permalink: /
 
 </div>
 -->
-
 
 
 

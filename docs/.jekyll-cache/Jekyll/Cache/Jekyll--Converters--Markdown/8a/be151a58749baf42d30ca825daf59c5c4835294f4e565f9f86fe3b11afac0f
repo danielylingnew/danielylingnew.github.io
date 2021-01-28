@@ -1,4 +1,4 @@
-I"á<!-- home photo style with hover text -->
+I"<!-- home photo style with hover text -->
 <style>
 .responsivevertical {
   max-height: 100%;
@@ -41,17 +41,31 @@
 }
 </style>
 
-<!-- overlay title -->
+<!-- overlay title
 <div class="homephotocontainer">
-  <img src="/assets/HomePhoto.jpg" alt="Avatar" class="image" />
+  <img src="/assets/HomePhoto.jpg" alt="Avatar" class="image">
   <div class="overlay">
   <div style="padding:20px;">
   Intel ISEF Awards Ceremony (with Shree Bose)
   </div>
   </div>
 </div>
+-->
 
-<!-- hover text
+<!-- hover text method using overlay -->
+<div class="homephotocontainer">
+
+<img src="/assets/HomePhoto.jpg" title="Intel ISEF in Los Angeles (with Shree Bose)" class="hover" />
+
+<div class="overlay">
+<div style="padding:20px;">
+Intel ISEF Awards Ceremony (with Shree Bose)
+</div>
+</div>
+
+</div>
+
+<!-- hover text original
 <div id="hovertext">
 
 <img src="/assets/HomePhoto.jpg" title="Intel ISEF in Los Angeles (with Shree Bose)" class="responsivevertical" class="hover">
