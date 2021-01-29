@@ -13,7 +13,7 @@
 <meta property="og:url" content="http://localhost:4000/" />
 <meta property="og:site_name" content="Daniel Ling" />
 <script type="application/ld+json">
-{"description":"I’m Dan. I’m an investor, researcher, and entrepreneur.","@type":"WebSite","name":"Daniel Ling","headline":"Home","url":"http://localhost:4000/","@context":"https://schema.org"}</script>
+{"description":"I’m Dan. I’m an investor, researcher, and entrepreneur.","@type":"WebSite","headline":"Home","name":"Daniel Ling","url":"http://localhost:4000/","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Daniel Ling" /></head>
 <body><header class="site-header" role="banner">
@@ -77,10 +77,23 @@
 </style>
 -->
 
+<!-- trying apply z-index to img element
+img {
+  position: absolute;
+  z-index: -1;
+}
+-->
+
 <style>
 .homephotocontainer {
   position: relative;
   width: 100%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .overlay {
@@ -130,7 +143,7 @@ Intel ISEF Awards Ceremony (with Shree Bose)
 
 <div class="homephotocontainer">
 
-<img src="/assets/HomePhoto.jpg" />
+<img src="/assets/HomePhoto.jpg" class="image" />
 
   <div class="overlay">
     <div style="padding:20px;">

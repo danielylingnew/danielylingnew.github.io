@@ -50,11 +50,25 @@ permalink: /
 </style>
 -->
 
+<!-- trying apply z-index to img element
+img {
+  position: absolute;
+  z-index: -1;
+}
+-->
+
+
 
 <style>
 .homephotocontainer {
   position: relative;
   width: 100%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .overlay {
@@ -104,10 +118,9 @@ Intel ISEF Awards Ceremony (with Shree Bose)
 </div>
 -->
 
-
 <div class="homephotocontainer">
 
-<img src="/assets/HomePhoto.jpg">
+<img src="/assets/HomePhoto.jpg" class="image">
 
   <div class="overlay">
     <div style="padding:20px;">
@@ -116,6 +129,7 @@ Intel ISEF Awards Ceremony (with Shree Bose)
   </div>
 
 </div>
+
 
 
 <!-- hover text original
