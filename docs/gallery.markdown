@@ -20,14 +20,22 @@ images:
 
 *A few selections in no particular order...*
 
-<ul class="gallery">
+<center>
   {% for image in page.images %}
-    <center>
+
 			<img src="{{ image.image_path }}" alt="{{ image.title}}"/>
 			<br>
 			{{ image.title}}
 			<br>
 			<br>
-		</center>
+
   {% endfor %}
+</center>
+
+
+
+{% comment %}
+<ul class="gallery">
+
 </ul>
+{% endcomment %}
