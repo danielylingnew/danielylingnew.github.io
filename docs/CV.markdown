@@ -5,6 +5,14 @@ permalink: /CV
 ---
 
 
+(Abridged)\
+Full CV available upon request.
+
+#### **Contact Information**
+dling@alumni.princeton.edu | (401) 219-6086
+
+<br>
+
 #### **Education**  
 Princeton '16 (A.B., Applied Mathematics/Economics)
 
@@ -116,7 +124,7 @@ Rhode Island Science Fair (2011, Overall Winner - Senior Division Champion)
 <br>
 
 <!--- additional emails -->
-Contact:\
+Email:\
 <a href="mailto:daniel.ling@lrc.systems">
 	daniel.ling@lrc.systems</a>\
 <a href="mailto:daniel@pjc.vc">
