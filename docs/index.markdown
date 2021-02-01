@@ -124,7 +124,7 @@ Intel ISEF Awards Ceremony (with Shree Bose)
 
   <div class="overlay">
     <div style="padding:20px;">
-    Intel ISEF Awards Ceremony (with Shree Bose)
+    Intel ISEF Awards Ceremony in Los Angeles, 2011 (with Shree Bose)
     </div>
   </div>
 
