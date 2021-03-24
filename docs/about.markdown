@@ -21,9 +21,11 @@ Hobbies and interests include soccer, skiing, classical/contemporary piano, musi
 
 Member of the Princeton Ski Team and the Tiger Inn.
 
----
+&nbsp;  
 
-<p></p>
+***
+
+&nbsp;  
 
 Morgan Stanley (I’m currently an investment analyst in NYC, 1585 Broadway)
 

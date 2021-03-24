@@ -12,6 +12,47 @@ My father (Xinsheng Ling) grew up in Wuhan and my mother (Hongyu Zhao) grew up i
 
 In my spare time, I tutor students on the SAT. I received an 800 in Writing, 800 in Math, and 780 in CR. I tutor all sections of the SAT as well as subject tests. Contact me at [dling@alumni.princeton.edu](mailto:dling@alumni.princeton.edu) in regards to tutoring inquiries.
 
+&nbsp;  
+
+***
+
+&nbsp;  
+
+### Activism
+I'm passionate about the following areas:
+
+#### Food Security/World Hunger
+
+**Food Bank For New York City**: Served as a volunteer at the Food Bank for NYC and aided in distributing and serving food to combat hunger for those in need, provide disadvantaged children with access to nutritious food, and address food insecurity in NYC's five boroughs. As part of Morgan Stanley’s #MSGivesBack campaign.
+
+**Meals on Wheels America**: Delivered meals to residents of NYC with diminished mobility, to address hunger among at-risk homebound individuals and reduce food insecurity in NYC. As part of Morgan Stanley’s #MSGivesBack campaign.
+
+#### Gun Control/Safety
+
+**Coalition to Stop Gun Violence**: Ally and volunteer for the Coalition to Stop Gun Violence. CSGV is a national, non-profit gun control advocacy organization that is opposed to gun violence. Since 1974, it has supported reduction in American gun violence via education and legislation.
+
+**Gun Safety Alliance**: Ally and volunteer for the Gun Safety Alliance. The Gun Safety Alliance is a network of business leaders and committed individuals from across every industry working together to ensure safety from gun violence and reduce gun deaths in the US.
+
+**Stop Handgun Violence**: Ally and volunteer for Stop Handgun Violence. Stop Handgun Violence is a non-profit organization committed to the prevention of gun violence through education, public awareness, effective law enforcement and common sense gun laws.
+
+**Everytown for Gun Safety**: Ally and volunteer for Everytown for Gun Safety. Everytown for Gun Safety is an American nonprofit organization which pushes for action on gun control and ending gun violence. The organization is a movement of Americans working together to end gun violence and build safer communities.
+
+**States United to Prevent Gun Violence**: Ally and volunteer for States United to Prevent Gun Violence. SUPGV is a grassroots network of 32 state affiliates with the mission of stopping gun violence and making our communities and families safer.
+
+#### Anti-Asian Racism
+
+**Asian Americans Advancing Justice &#124; AAJC**: Anti-Asian Hate, Anti-Racial Profiling Project, Racial Justice Program. AAJC is a civil rights organization that aims to combat and raise awareness about racism and discrimination against Asian Americans.
+
+#### Climate Change
+
+**Save The Bay - Narragansett Bay**: Ally and volunteer for Save The Bay RI. Save The Bay protects, restores, and improves the ecological health of the Narragansett Bay region, including its watershed and adjacent coastal waters, through an ecosystem-based approach to environmental action; defends the right of the public to use and enjoy the Bay and its surrounding waters; and fosters an ethic of environmental stewardship among people who live in or visit the Narragansett Bay region.
+
+&nbsp;  
+
+***
+
+&nbsp;  
+
 [Here](https://www.youtube.com/watch?v=Rru3XR9G8xE) is a soccer highlight (Black Watch Premier vs Boston Bolts, U14).
 
 You can find the source code for Minima at GitHub:
