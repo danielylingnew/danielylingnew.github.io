@@ -27,6 +27,8 @@ I'm passionate about the following areas:
 
 **Meals on Wheels America**: Delivered meals to residents of NYC with diminished mobility, to address hunger among at-risk homebound individuals and reduce food insecurity in NYC. As part of Morgan Stanley’s #MSGivesBack campaign.
 
+**Action Against Hunger**: Ally and volunteer for Action Against Hunger. Action Against Hunger is a global humanitarian organization committed to ending world hunger.
+
 #### Gun Control/Safety
 
 **Coalition to Stop Gun Violence**: Ally and volunteer for the Coalition to Stop Gun Violence. CSGV is a national, non-profit gun control advocacy organization that is opposed to gun violence. Since 1974, it has supported reduction in American gun violence via education and legislation.
