@@ -75,17 +75,17 @@ Stay in touch with me! Subscribe [here](https://danling.substack.com/welcome) to
 <!--- Social mirroring -->  
 #### _Latest from Daniel Ling_
 
-Daniel Ling on [Twitter](https://twitter.com/danielyuling)
+Daniel Ling on [Twitter](https://twitter.com/danlingofficial)
 
 <!--- Twitter follow button -->  
-<a href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @danielyuling</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/danlingofficial?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @danielyuling</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--- Twitter mention button -->
-<a href="https://twitter.com/intent/tweet?screen_name=danielyuling&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-text="Hi Daniel, " data-show-count="false">Tweet to @danielyuling</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=danlingofficial&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-text="Hi Daniel, " data-show-count="false">Tweet to @danielyuling</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--- Twitter timeline -->  
 <div style="text-align: center;">
-<a class="twitter-timeline" data-height="1000" href="https://twitter.com/danielyuling?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="1000" href="https://twitter.com/danlingofficial?ref_src=twsrc%5Etfw">Tweets by danielyuling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <br>
@@ -94,7 +94,7 @@ Daniel Ling on [Twitter](https://twitter.com/danielyuling)
 
 <br>
 
-Daniel Ling on [Instagram](https://www.instagram.com/danielyling/)
+Daniel Ling on [Instagram](https://www.instagram.com/danlingofficial/)
 
 <br>
 
