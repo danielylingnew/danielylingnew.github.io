@@ -26,7 +26,7 @@ Hope everyone's had a great January. I had a great conversation this past week w
 Have a great week!\
 Dan
 
-P.S. I’ll be making the newsletter biweekly (twice monthly) from now on. Thanks for reading!
+P.S. I’ll be making the newsletter biweekly-ish (twice monthly) from now on and writing it more on an ad hoc basis. Thanks for reading!
 
 <br>
 
