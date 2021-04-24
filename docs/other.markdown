@@ -57,6 +57,14 @@ I'm passionate about the following areas:
 
 &nbsp;  
 
+My personal direct holdings in public companies are: AAPL, ABNB, CLDR, COIN, CRM, DBX, FB, MS, MSFT, OPEN, PATH, PFE, SNOW, SPOT, SQ, TSLA, TWLO, TWTR, UBER, VIAC, VZ, XM, ZG.
+
+&nbsp;  
+
+***
+
+&nbsp;  
+
 [Here](https://www.youtube.com/watch?v=Rru3XR9G8xE) is a soccer highlight (Black Watch Premier vs Boston Bolts, U14).
 
 You can find the source code for Minima at GitHub:
