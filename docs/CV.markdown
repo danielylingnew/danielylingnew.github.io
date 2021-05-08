@@ -21,7 +21,15 @@ Princeton '16 (A.B., Applied Mathematics/Economics)
 <br>
 
 #### **Experience**  
-PJC (Venture capital, technology sector)  
+<inlineinvestments>
+  PJC (Venture capital, technology sector) &nbsp; &nbsp; &nbsp; &nbsp;
+  <details>
+    <summary>
+      <span style="color: grey;">Investments involved in</span>
+    </summary>
+    <a href="https://www.about.pangea.app/">Pangea</a>, <a href="https://synthesis.ai/">Synthesis AI</a>, <a href="https://rethinksoftware.com/">Rethink</a>, <a href="https://www.nativevoice.ai/">NativeVoice</a>, <a href="https://riyacollective.com/">Riya Collective</a>, <a href="https://www.intersectlabs.io/">Intersect Labs</a>, <a href="https://www.edenhealth.com/">EdenHealth</a>, <a href="https://www.neurable.com/">Neurable</a>, <a href="https://www.truenorthfleet.com/">TrueNorth</a>, <a href="https://livelyme.com/">Lively</a>, <a href="https://www.expensify.com/">Expensify</a>, <a href="https://www.joinsmartpath.com/">SmartPath</a>, <a href="https://www.reelables.com/">Reelables</a>, <a href="https://www.splitspot.com/">SplitSpot</a>, <a href="https://openly.com/">Openly</a>, among others.
+  </details>
+</inlineinvestments>
 Morgan Stanley (Previously an investment analyst in NYC, 1585 Broadway)
 
 <br>
@@ -141,7 +149,7 @@ Email:\
 function myFunction(id) {
 	var x = document.getElementById(id);
 
-	var ids = ["abs1", "media1", "abs2", "media2", "abs3", "about1", "about2"];
+	var ids = ["inv", "abs1", "media1", "abs2", "media2", "abs3", "about1", "about2"];
 
 	for(var i = 0; i < ids.length; i++) {
 		var item = ids[i];

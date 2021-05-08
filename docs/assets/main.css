@@ -331,3 +331,19 @@ visibility: hidden;
 #hovertext:hover .text {
 visibility: visible;
 }
+
+
+/*# for Investments involved in button */
+div.inlineinvestments {
+  display: inline;
+}
+
+details {
+  display: inline;
+}
+
+/*#
+details[open] summary {
+  display: inline;
+}
+ */
