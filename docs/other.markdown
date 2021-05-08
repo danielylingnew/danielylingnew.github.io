@@ -16,7 +16,7 @@ I also code, build, and design websites (both personal websites and for business
 
 &nbsp;  
 
-***
+<hr style="border:1px solid #E8E8E8">
 
 &nbsp;  
 
@@ -57,15 +57,17 @@ I'm passionate about the following areas:
 
 &nbsp;  
 
-***
+<hr style="border:1px solid #E8E8E8">
 
 &nbsp;  
+
+With my role as a VC investor at PJC, I've been involved in investments in: [Pangea](https://www.about.pangea.app/), [Synthesis AI](https://synthesis.ai/), [Rethink](https://rethinksoftware.com/), [NativeVoice](https://www.nativevoice.ai/), [Riya Collective](https://riyacollective.com/), [Intersect Labs](https://www.intersectlabs.io/), [EdenHealth](https://www.edenhealth.com/), [Neurable](https://www.neurable.com/), [TrueNorth](https://www.truenorthfleet.com/), [Lively](https://livelyme.com/), [Expensify](https://www.expensify.com/), [SmartPath](https://www.joinsmartpath.com/), [Reelables](https://www.reelables.com/), [SplitSpot](https://www.splitspot.com/), [Openly](https://openly.com/), among others.
 
 My personal direct holdings in public companies are: AAPL, ABNB, CLDR, COIN, CRM, DBX, FB, MS, MSFT, OPEN, PATH, PFE, SNOW, SPOT, SQ, TSLA, TWLO, TWTR, UBER, VIAC, VZ, XM, ZG.
 
 &nbsp;  
 
-***
+<hr style="border:1px solid #E8E8E8">
 
 &nbsp;  
 
