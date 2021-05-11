@@ -347,3 +347,28 @@ details[open] summary {
   display: inline;
 }
  */
+
+
+/*# for header tabs with max width */
+ /*#
+ div.maxwidthdiv {
+     max-width: 300px;
+     margin: auto;
+     border: 3px solid #73AD21;
+   }
+ */
+
+
+/*# trying floats */
+div.left {float:left}
+div.right {float:right}
+div.clear {clear:both}
+
+
+
+.main-navigation .main-nav ul li a,
+.menu-toggle, .main-navigation .mobile-bar-items a {
+    line-height: inherit;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
