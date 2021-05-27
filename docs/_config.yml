@@ -17,16 +17,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-header_pages:
+'header_pages1':
   - index.markdown
   - about.markdown
   - publications.markdown
   - news.markdown
-  - other.markdown
   - writing.markdown
   - podcast.markdown
   - gallery.markdown
   - CV.markdown
+
+'header_pages2':
+  - theses.markdown
+  - events.markdown
+  - bookshelf.markdown
+  - other.markdown
 
 # for RSS feed
 plugins:
