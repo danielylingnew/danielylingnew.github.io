@@ -27,7 +27,7 @@
           {%- endfor -%}
         </div>
 
-        <div class="trigger" style="float: right; margin-top: -30px">
+        <div class="trigger" style="float: right; line-height: 0px">
           {%- for path in page_paths2 -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
