@@ -5,7 +5,7 @@ permalink: /bookshelf
 ---
 
 
-These are some nontechnical books I’ve read from ~2018 onwards that I think others might like as well.
+These are some books (both technical and nontechnical) I’ve read from ~2018 onwards that I think others might like as well.
 
 * Atomic Habits
 * Principles (Dalio)
@@ -17,6 +17,8 @@ These are some nontechnical books I’ve read from ~2018 onwards that I think ot
 * Sapiens
 * Thinking, Fast and Slow
 * Good Strategy/Bad Strategy: The Difference and Why It Matters
+* Irrational Exuberance
+* The Statistical Mechanics of Financial Markets
 * A Beautiful Mind
 * The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google
 * The Elegant Universe
@@ -29,3 +31,4 @@ These are some nontechnical books I’ve read from ~2018 onwards that I think ot
 * Capitalism in America: A History
 * JFK in the Senate
 * A Brief History of Time
+* International Macroeconomics
