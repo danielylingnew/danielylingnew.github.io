@@ -23,7 +23,7 @@ Member of the Princeton Ski Team and the Tiger Inn.
 
 &nbsp;  
 
-***
+<hr style="border:1px solid #E8E8E8">
 
 &nbsp;
 
@@ -31,7 +31,7 @@ I studied the mathematics track at Princeton as an undergrad. I placed out of in
 
 &nbsp;  
 
-***
+<hr style="border:1px solid #E8E8E8">
 
 &nbsp;  
 
