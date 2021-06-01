@@ -37,4 +37,8 @@ Research on BCIs began in the early 1970s but have recently garnered a lot of at
 
 #### Healthcare AI
 
-AI has the potential to impact every facet of the patient and provider experience, both in a clinical and non-clinical sense. While AI serving as the healthcare provider may seem more science fiction than not, with the patient-doctor experience continuing to be human-centric far into the future in my view, AI can be a disruptive catalyst for technological adoption within healthcare via a myriad of use cases. From diagnostics to treatment within the clinical setting, to patient engagement and data infrastructure/interoperability in the non-clinical - the healthcare space is poised for change and AI will be front and center of that transformation.
+AI has the potential to impact every facet of the patient and provider experience, both in a clinical and non-clinical sense. While AI serving as the healthcare provider may seem more science fiction than not, with the patient-doctor experience continuing to be human-centric far into the future in my view, AI can be a disruptive catalyst for technological adoption within healthcare vis-à-vis a myriad of use cases. From diagnostics to treatment within the clinical setting, to patient engagement and data infrastructure/interoperability in the non-clinical - the healthcare space is poised for change and AI will be front and center of that transformation.
+
+&nbsp;  
+
+*(Last edited 8/2020)*
