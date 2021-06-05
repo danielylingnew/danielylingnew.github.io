@@ -121,6 +121,8 @@ Intel International Science & Engineering Fair (2011, Finalist and Special Award
 <br>
 Siemens Competition (2011, Finalist)
 <br>
+AP Scholar with Distinction
+<br>
 JSHS National Competition (2011, 3rd Place at National Finals, San Diego)
 <br>
 Harvard Book Award
