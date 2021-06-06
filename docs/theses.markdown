@@ -5,7 +5,7 @@ permalink: /theses
 ---
 
 
-I have a few core theses about the world, new frontiers, and emerging trends that shape my thinking as an early-stage investor. These are themes I've been seeing recently and encompass what I see to be important to build in order to make the world a better place and guide why I invest.
+I have a few core theses about the world, emerging science and technology at the "edges", and new frontiers that shape my thinking as an early-stage investor. These are themes I've been seeing recently and encompass what I see to be important to build in order to make the world a better place and guide why I invest.
 
 &nbsp;  
 
@@ -30,6 +30,9 @@ Marketplaces, ever since their first iterations in ancient times and the nascent
 New AI/ML necessitates a discussion of privacy, ethics, and privacy-preserving technology. Federated machine learning is one of the promising solutions to the issue of differential privacy with the implementation of new AI. Many industries have been unable to adopt ML because of privacy issues and data sensitivity, and federated ML can retain data ownership while enabling a model to train locally. Federated learning represents the intersection of distributed systems and privacy preservation, and has the potential to materialize the future of AI.
 
 [comment]: <> With the emergence of new applications of AI/ML, the discussion of their implications for privacy.
+
+#### Edge AI
+Local data processing is the path forward for an AI-integrated future, and edge AI technology is one of the ways to implement that. Edge AI gets to the closest point of interaction with the end user and maintains data security, and we all know that AI must be privacy-preserving in order for it to be realistically integrated into the facets of society we hope it to.
 
 #### Brain-Computer Interfaces
 
