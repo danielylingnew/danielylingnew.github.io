@@ -30,6 +30,7 @@
 'header_pages2':
   - theses.markdown
   - events.markdown
+  - quotes.markdown
   - bookshelf.markdown
   - other.markdown
 
