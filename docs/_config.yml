@@ -23,15 +23,15 @@
   - publications.markdown
   - news.markdown
   - writing.markdown
-  - podcast.markdown
   - gallery.markdown
   - CV.markdown
 
 'header_pages2':
-  - theses.markdown
   - events.markdown
   - quotes.markdown
   - bookshelf.markdown
+  - podcast.markdown
+  - theses.markdown
   - other.markdown
 
 # for RSS feed
