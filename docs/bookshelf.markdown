@@ -23,6 +23,8 @@ These are some books (both technical and nontechnical) I’ve read from ~2018 on
 
 * Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty
 
+* Now: The Physics of Time
+
 * Sapiens
 
 * Thinking, Fast and Slow
@@ -64,6 +66,8 @@ These are some books (both technical and nontechnical) I’ve read from ~2018 on
 * After The Music Stopped
 
 * The Art of Choosing
+
+* A Guide to First-Passage Processes
 
 * Volcker: The Triumph of Persistence
 
