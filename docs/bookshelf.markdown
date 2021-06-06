@@ -39,6 +39,10 @@ These are some books (both technical and nontechnical) I’ve read from ~2018 on
 
 * The Everything Store: Jeff Bezos and the Age of Amazon
 
+* Differential Geometry (Kreyszig)
+
+* Applied Partial Differential Equations
+
 * The Elegant Universe
 
 * Surely You're Joking, Mr. Feynman!
