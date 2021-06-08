@@ -5,7 +5,7 @@ permalink: /quotes
 ---
 
 
-Inspired by [Paul Graham's quotes page](http://www.paulgraham.com/quo.html), these are some quotes about science, technology, venture capital, life, productivity, and health that I resonate with - hope you take something from them too.
+Inspired by [Paul Graham's quotes page](http://www.paulgraham.com/quo.html), these are some quotes about science, technology, venture capital, life, productivity, and health that I've resonated with - hope you take something from them too.
 
 <br>
 
