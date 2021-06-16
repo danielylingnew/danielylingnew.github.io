@@ -32,7 +32,7 @@ New AI/ML necessitates a discussion of privacy, ethics, and privacy-preserving t
 [comment]: <> With the emergence of new applications of AI/ML, the discussion of their implications for privacy.
 
 #### Edge AI
-Local data processing is the path forward for an AI-integrated future, and edge AI technology is one of the ways to implement that. Edge AI gets to the closest point of interaction with the end user and maintains data security, and we all know that AI must be privacy-preserving in order for it to be realistically integrated into the facets of society we hope it to.
+Local data processing is the path forward for an AI-integrated future, and edge AI technology is one of the ways to implement that. Edge AI gets to the closest point of interaction with the end user and maintains data security, and we all know that AI must be privacy-preserving in order for it to be realistically integrated into the facets of society we hope it to. Data network effects can also take hold and create a flywheel, as I discuss [here](https://medium.com/inside-pjc/network-effects-in-ai-5e5703a6df23).
 
 #### Brain-Computer Interfaces
 
