@@ -22,17 +22,17 @@
   - about.markdown
   - publications.markdown
   - news.markdown
-  - writing.markdown
   - gallery.markdown
   - CV.markdown
+  - other.markdown
 
 'header_pages2':
   - events.markdown
+  - writing.markdown
   - quotes.markdown
   - bookshelf.markdown
   - podcast.markdown
   - theses.markdown
-  - other.markdown
 
 # for RSS feed
 plugins:
