@@ -7,8 +7,12 @@ images:
     title: With Senator Sheldon Whitehouse.
   - image_path: /images/jackreed.jpeg
     title: With Senator Jack Reed.
+  - image_path: /images/jackpic1.jpg
+    title: With Senator Jack Reed and Cybele Greenberg.
   - image_path: /images/senatorscybele.jpg
     title: Myself, Cybele Greenberg, Sen. Whitehouse, and Sen. Reed. During the pres. scholar events in DC.
+  - image_path: /images/jackpic2.jpg
+    title: Chatting with Sen. Reed.
   - image_path: /images/senatorsparents.jpg
     title: Me, my lovely parents, and the two U.S. Senators representing Rhode Island.
   - image_path: /images/dudley1.jpg
