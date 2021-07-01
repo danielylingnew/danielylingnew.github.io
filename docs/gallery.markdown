@@ -38,7 +38,7 @@ images:
   - image_path: /images/ivyday.jpg
     title: Ivy Day ceremonies (East Greenwich, Rhode Island)
   - image_path: /images/speech.jpg
-    title: Saying a few words at grad (East Greenwich, RI).
+    title: <a href="https://patch.com/rhode-island/eastgreenwich/class-of-2012-goes-out-big">Graduation</a> (East Greenwich High School)
   - image_path: /images/elizabethrob.jpg
     title: Some good Block Island fun with Rob Kraft and Elizabeth Kerin.
   - image_path: /images/taylor.jpg
