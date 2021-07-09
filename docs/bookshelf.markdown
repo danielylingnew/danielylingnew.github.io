@@ -13,7 +13,7 @@ These are some books (both technical and nontechnical) I’ve read from ~2018 on
 
 * Principles (Dalio)
 
-* Venture Deals
+* Venture Deals (thanks to [Matt Hayes](https://twitter.com/matthhayes) for gifting this book to me!)
 
 * Wilson
 
