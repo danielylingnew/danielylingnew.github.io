@@ -16,7 +16,7 @@ dling@alumni.princeton.edu | (401) 219-6086
 <br>
 
 #### **Education**  
-Princeton '16 (A.B., Applied Mathematics/Economics)
+Princeton (A.B., Applied Mathematics/Economics), 2012-2016
 
 <br>
 
