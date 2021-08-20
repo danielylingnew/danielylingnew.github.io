@@ -16,7 +16,7 @@ I continue to be greatly interested in physics and chemistry, especially in conj
 
 I conducted my [senior thesis](https://dataspace.princeton.edu/jspui/handle/88435/dsp01bn9999183) at Princeton on applications of game theory and mechanism design in loan markets with information asymmetry. The thesis focuses on applied math in economics and contract theory. It was an honor to be advised by Professor [Stephen E. Morris](https://en.wikipedia.org/wiki/Stephen_Morris_(game_theorist)), economist and game theorist.
 
-My thesis is available upon request.
+My thesis is available upon request. You can find [a preview](/assets/Senior Thesis Preview.pdf) here.
 
 *Ling Notes* is [my weekly newsletter](https://danielsdigest.substack.com/) where I write about health, productivity, and mindset. Included are my thoughts, reflections, and notes from the week. Also included are some things I've enjoyed that week and articles that resonated with me. I’ll be sharing it every Sunday. Subscribe [here](https://lingnotes.substack.com/welcome) to get it delivered directly to your inbox:
 
