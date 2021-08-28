@@ -17,7 +17,7 @@ dling@alumni.princeton.edu | (401) 219-6086
 
 #### **Education**  
 Princeton (A.B., Applied Mathematics/Economics), 2012-2016  
-* *A preview of my senior thesis can be found [here](/assets/Senior Thesis Preview.pdf)*
+* A preview of my senior thesis can be found [here](/assets/Senior Thesis Preview.pdf).<br> *Full version is available upon request.*
 
 <br>
 
