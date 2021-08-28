@@ -9,7 +9,7 @@ permalink: /about
 
 Rhode Island native, Princeton '16, currently a New Yorker.
 
-I am an investor at PJC, focusing on enterprise software, consumer technology, tech-enabled marketplaces, differential privacy, and AI.
+I am an investor at PJC, focusing on enterprise software, consumer technology, tech-enabled marketplaces, differential privacy, and AI. PJC is a venture capital firm founded in 2001 by Gina Raimondo (current U.S. Commerce Head) and David Martirano (Technology Investor).
 
 From 2016 to 2019, I was an investment analyst at Morgan Stanley in NYC. I studied economics as well as mathematics and game theory at Princeton as an undergraduate.
 
