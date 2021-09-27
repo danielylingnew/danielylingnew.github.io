@@ -51,6 +51,12 @@ I'm passionate about the following areas:
 
 **Save The Bay - Narragansett Bay**: Ally and volunteer for Save The Bay RI. Save The Bay protects, restores, and improves the ecological health of the Narragansett Bay region, including its watershed and adjacent coastal waters, through an ecosystem-based approach to environmental action; defends the right of the public to use and enjoy the Bay and its surrounding waters; and fosters an ethic of environmental stewardship among people who live in or visit the Narragansett Bay region.
 
+#### Animal Welfare
+
+**Animal Welfare Society**: Ally and volunteer for the Animal Welfare Society. The Animal Welfare Society exists to provide humane shelter and care to companion animals temporarily in need of housing, to assist in disaster response, and to further the cause of responsible animal adoption and ownership through education and public awareness.
+
+**Animal Welfare Institute**: Ally and volunteer for the Animal Welfare Institute. The Animal Welfare Institute is dedicated to reducing animal suffering caused by people.
+
 #### Homelessness
 
 **The Neighborhood Coalition for Shelter, Inc.**: Ally and volunteer for the Neighborhood Coalition for Shelter. The Neighborhood Coalition for Shelter’s mission is to help New Yorkers who are experiencing homelessness, as well as mental illness and substance abuse, get back on their feet by providing housing, counseling, and other services.
