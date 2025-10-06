@@ -7,6 +7,11 @@ permalink: /about
 
 <img align="right" src="/assets/Photo.jpg" class="img-responsive spacefloatedimage">
 
+I am a PhD student at the University of Cambridge's Centre for Human-Inspired Artificial Intelligence under Professor Ramit Debnath.
+
+
+To be updated: 
+
 Rhode Island native, Princeton '16, currently a New Yorker.
 
 I am an investor at PJC, focusing on enterprise software, consumer technology, tech-enabled marketplaces, differential privacy, and AI. PJC is a venture capital firm founded in 2001 by Gina Raimondo (current U.S. Commerce Head) and David Martirano (Technology Investor).
